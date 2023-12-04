@@ -1,0 +1,4 @@
+com\caklipakli\catalog\model\ValidateObjectsTest.class
+com\caklipakli\catalog\CatalogApplicationTests.class
+com\caklipakli\catalog\MockData.class
+com\caklipakli\catalog\tasks\TestDatabaseConnection.class

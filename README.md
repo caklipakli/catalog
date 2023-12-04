@@ -17,6 +17,8 @@ The app performs the following tasks:
 - total Amazon (ACTIVE) listings, total price, average price per month
 - upcoming: best lister email of month
 6. writes the report to a file 'report.json'
+7. uploads file to an FTP server
+
 
 ## Specifications
 - Java 21.0.1
