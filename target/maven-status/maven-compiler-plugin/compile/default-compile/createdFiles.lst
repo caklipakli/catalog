@@ -1,4 +1,3 @@
-com\caklipakli\catalog\tasks\Process.class
 com\caklipakli\catalog\tasks\ValidateObjects.class
 com\caklipakli\catalog\exception\GlobalExceptionHandler.class
 com\caklipakli\catalog\tasks\GenerateReport.class
@@ -13,10 +12,13 @@ com\caklipakli\catalog\CatalogApplication.class
 com\caklipakli\catalog\report\ResultSetConverter.class
 com\caklipakli\catalog\tasks\GetData.class
 com\caklipakli\catalog\tasks\GetData$1.class
+com\caklipakli\catalog\model\ValidatedObject.class
 com\caklipakli\catalog\service\ILocationService.class
+com\caklipakli\catalog\tasks\ProcessTasks.class
 com\caklipakli\catalog\repository\ListingRepository.class
 com\caklipakli\catalog\repository\LocationRepository.class
 com\caklipakli\catalog\report\WriteReport.class
 com\caklipakli\catalog\tasks\UploadFile.class
 com\caklipakli\catalog\service\ListingServiceImp.class
 com\caklipakli\catalog\model\Location.class
+com\caklipakli\catalog\utils\QueryApp.class

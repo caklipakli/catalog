@@ -1,11 +1,13 @@
+TRUNCATE listing;
+
 CREATE TABLE IF NOT EXISTS location (
 	id VARCHAR(36) NOT NULL,
 	manager_name VARCHAR(50),
-	phone VARCHAR (20),
+	phone VARCHAR (50),
 	address_primary VARCHAR (50),
 	address_secondary VARCHAR (50),
-	country VARCHAR (20),
-	town VARCHAR (20),
+	country VARCHAR (50),
+	town VARCHAR (50),
 	postal_code VARCHAR (20),
 	PRIMARY KEY (id)
 );

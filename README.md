@@ -27,14 +27,16 @@ The app performs the following tasks:
 - picocli 4.6.1
 
 ## How to run
-The app can be run from the command line using the following command:
+The app can be run from the command line using the following commands:
 
-the app performs the 1-4. tasks above without argument
+1. mvn clean install 
 
-mvn spring-boot:run
+2. - java -jar .\target\catalog-0.0.1-SNAPSHOT.jar save --> performs tasks 1-4
 
-the app performs the whole lifecycle with the following argument:
-mvn spring-boot:run -Drun.arguments=--report
+2. - java -jar .\target\catalog-0.0.1-SNAPSHOT.jar report --> performs tasks 5-7
 
-<disclaimer: the report argument works in IntelliJ, but not in the command line at the moment>
+{Disclaimer: 
+The app is not fully functional yet. It is still a work in progress.
+It receives only listings data currently.}
+
 

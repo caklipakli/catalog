@@ -34,16 +34,5 @@ public class ListingServiceImp implements IListingService {
     public List<Listing> getAllListings() {
         return listingRepository.findAll();
     }
-    public void saveListingAfterValidation(List<Listing> listings) throws JsonProcessingException {
 
-        List<Listing> validatedListings = validateObjects.validateListings(listings);
-        try {
-            saveListings(validatedListings);
-            log.info("Valid listings saved successfully");
-        }
-        catch (Exception e)
-        {
-            log.error("Error saving listing" + e.getMessage());
-        }
-    }
 }

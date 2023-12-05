@@ -1,2381 +1,1629 @@
 [ [ {
-  "total_listings" : "7283"
+  "total_listings" : "1024"
 } ], [ {
-  "total_active_listings" : 214,
-  "total active listing price" : 106600.38,
-  "currency" : "EUR",
-  "average active listing price" : 498.1326168224299,
-  "marketplace_name" : "AMAZON"
-}, {
-  "total_active_listings" : 198,
-  "total active listing price" : 103384.83,
+  "total_active_listings" : 25,
+  "total active listing price" : 12281.04,
   "currency" : "AUD",
-  "average active listing price" : 522.145606060606,
+  "average active listing price" : 491.2416,
   "marketplace_name" : "AMAZON"
 }, {
-  "total_active_listings" : 217,
-  "total active listing price" : 111049.67,
-  "currency" : "JPY",
-  "average active listing price" : 511.7496313364055,
-  "marketplace_name" : "AMAZON"
-}, {
-  "total_active_listings" : 202,
-  "total active listing price" : 99387.34,
-  "currency" : "GBP",
-  "average active listing price" : 492.0165346534653,
-  "marketplace_name" : "AMAZON"
-}, {
-  "total_active_listings" : 194,
-  "total active listing price" : 98996.54,
-  "currency" : "USD",
-  "average active listing price" : 510.29144329896906,
-  "marketplace_name" : "AMAZON"
-}, {
-  "total_active_listings" : 181,
-  "total active listing price" : 85425.15,
-  "currency" : "HUF",
-  "average active listing price" : 471.9621546961326,
-  "marketplace_name" : "AMAZON"
-}, {
-  "total_active_listings" : 227,
-  "total active listing price" : 118342.58,
-  "currency" : "HUF",
-  "average active listing price" : 521.3329515418502,
-  "marketplace_name" : "EBAY"
-}, {
-  "total_active_listings" : 198,
-  "total active listing price" : 95697.28,
-  "currency" : "AUD",
-  "average active listing price" : 483.319595959596,
-  "marketplace_name" : "EBAY"
-}, {
-  "total_active_listings" : 194,
-  "total active listing price" : 96176.67,
-  "currency" : "JPY",
-  "average active listing price" : 495.75603092783507,
-  "marketplace_name" : "EBAY"
-}, {
-  "total_active_listings" : 189,
-  "total active listing price" : 91674.36,
-  "currency" : "GBP",
-  "average active listing price" : 485.0495238095238,
-  "marketplace_name" : "EBAY"
-}, {
-  "total_active_listings" : 189,
-  "total active listing price" : 91959.09,
-  "currency" : "USD",
-  "average active listing price" : 486.55603174603175,
-  "marketplace_name" : "EBAY"
-}, {
-  "total_active_listings" : 170,
-  "total active listing price" : 81728.83,
+  "total_active_listings" : 24,
+  "total active listing price" : 11913.87,
   "currency" : "EUR",
-  "average active listing price" : 480.7578235294118,
+  "average active listing price" : 496.41125,
+  "marketplace_name" : "AMAZON"
+}, {
+  "total_active_listings" : 28,
+  "total active listing price" : 12812.02,
+  "currency" : "GBP",
+  "average active listing price" : 457.57214285714286,
+  "marketplace_name" : "AMAZON"
+}, {
+  "total_active_listings" : 21,
+  "total active listing price" : 9128.3,
+  "currency" : "HUF",
+  "average active listing price" : 434.68095238095236,
+  "marketplace_name" : "AMAZON"
+}, {
+  "total_active_listings" : 23,
+  "total active listing price" : 13509.24,
+  "currency" : "JPY",
+  "average active listing price" : 587.3582608695652,
+  "marketplace_name" : "AMAZON"
+}, {
+  "total_active_listings" : 23,
+  "total active listing price" : 11911.86,
+  "currency" : "USD",
+  "average active listing price" : 517.9069565217392,
+  "marketplace_name" : "AMAZON"
+}, {
+  "total_active_listings" : 29,
+  "total active listing price" : 14696.3,
+  "currency" : "AUD",
+  "average active listing price" : 506.7689655172414,
+  "marketplace_name" : "EBAY"
+}, {
+  "total_active_listings" : 33,
+  "total active listing price" : 14855.99,
+  "currency" : "EUR",
+  "average active listing price" : 450.18151515151516,
+  "marketplace_name" : "EBAY"
+}, {
+  "total_active_listings" : 28,
+  "total active listing price" : 14781.98,
+  "currency" : "GBP",
+  "average active listing price" : 527.9278571428572,
+  "marketplace_name" : "EBAY"
+}, {
+  "total_active_listings" : 24,
+  "total active listing price" : 10409.02,
+  "currency" : "HUF",
+  "average active listing price" : 433.70916666666665,
+  "marketplace_name" : "EBAY"
+}, {
+  "total_active_listings" : 37,
+  "total active listing price" : 19186.64,
+  "currency" : "JPY",
+  "average active listing price" : 518.5578378378378,
+  "marketplace_name" : "EBAY"
+}, {
+  "total_active_listings" : 28,
+  "total active listing price" : 16092.13,
+  "currency" : "USD",
+  "average active listing price" : 574.7189285714286,
   "marketplace_name" : "EBAY"
 } ], [ {
-  "best_lister" : "mfburgo@yahoo.com"
+  "best_lister" : "naoya@verizon.net"
 } ], [ {
   "month" : 1,
-  "total_price" : 992.42,
+  "total_price" : 377.07,
   "year" : 2017,
   "count" : 2,
-  "average_price" : 496.21,
+  "average_price" : 188.535,
   "currency" : "AUD",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 1,
-  "total_price" : 5060.32,
+  "total_price" : 848.68,
   "year" : 2017,
-  "count" : 9,
-  "average_price" : 562.2577777777777,
+  "count" : 1,
+  "average_price" : 848.68,
   "currency" : "EUR",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 1,
-  "total_price" : 4118.47,
+  "total_price" : 889.38,
   "year" : 2017,
-  "count" : 8,
-  "average_price" : 514.80875,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 3230.22,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 403.7775,
+  "count" : 1,
+  "average_price" : 889.38,
   "currency" : "HUF",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 1,
-  "total_price" : 4153.95,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 593.4214285714286,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 3637.96,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 404.21777777777777,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 5040.21,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 560.0233333333333,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 2244.3,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 448.86,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 4561.23,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 651.6042857142858,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 3987.2,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 398.72,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 8054.09,
-  "year" : 2017,
-  "count" : 13,
-  "average_price" : 619.5453846153846,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 6354.38,
-  "year" : 2017,
-  "count" : 12,
-  "average_price" : 529.5316666666666,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 7135.56,
-  "year" : 2017,
-  "count" : 13,
-  "average_price" : 548.8892307692307,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 1906.75,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 381.35,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 2052.25,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 410.45,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 1555.34,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 194.4175,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 3408.2,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 426.025,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 3886.37,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 485.79625,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 2663.38,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 443.89666666666665,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 2775.44,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 396.49142857142857,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 2710.35,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 387.1928571428571,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 4084.31,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 510.53875,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 1656.08,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 414.02,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 3318.02,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 414.7525,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 5529.92,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 614.4355555555555,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 4820.39,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 482.039,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 4690.91,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 426.4463636363636,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 6385.93,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 709.5477777777778,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 8124.89,
-  "year" : 2017,
-  "count" : 15,
-  "average_price" : 541.6593333333333,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 2833.43,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 404.7757142857143,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 3167.57,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 633.514,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 3143.36,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 349.26222222222225,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 5526.95,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 502.45,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 4968.79,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 496.879,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 4526.75,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 452.675,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 3932.65,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 491.58125,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 2948.2,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 421.1714285714286,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 4457.39,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 742.8983333333333,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 5489.99,
-  "year" : 2017,
-  "count" : 12,
-  "average_price" : 457.49916666666667,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 2711.48,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 387.3542857142857,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 2946.38,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 589.276,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 7672.48,
-  "year" : 2017,
-  "count" : 14,
-  "average_price" : 548.0342857142857,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 4541.3,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 567.6625,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 4715.18,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 589.3975,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 4214.94,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 702.49,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 7307.64,
-  "year" : 2017,
-  "count" : 16,
-  "average_price" : 456.7275,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 7623.71,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 762.371,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 3829.61,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 547.0871428571429,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 6627,
-  "year" : 2017,
-  "count" : 12,
-  "average_price" : 552.25,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 3372.58,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 421.5725,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 5634.48,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 563.448,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 3740.52,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 623.42,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 4627.1,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 420.6454545454545,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 5053.75,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 631.71875,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 5473.04,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 497.5490909090909,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 3240.15,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 462.87857142857143,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 1803.86,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 225.4825,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 2565.17,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 641.2925,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 6222.53,
-  "year" : 2017,
-  "count" : 13,
-  "average_price" : 478.65615384615387,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 3510.27,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 585.045,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 5065.65,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 633.20625,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 7646.96,
-  "year" : 2017,
-  "count" : 16,
-  "average_price" : 477.935,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 7359.01,
-  "year" : 2017,
-  "count" : 13,
-  "average_price" : 566.0776923076924,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 1631.33,
+  "total_price" : 1215.77,
   "year" : 2017,
   "count" : 3,
-  "average_price" : 543.7766666666666,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 1837.58,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 306.2633333333333,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 1948.62,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 487.155,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 3071.7,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 438.8142857142857,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 2282.1,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 326.01428571428573,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 5416.89,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 492.44454545454545,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 2574.92,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 367.8457142857143,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 5297.82,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 529.782,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 3973.58,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 567.6542857142857,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 2861.54,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 572.308,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 5335.31,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 666.91375,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 5444.96,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 544.496,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 5880.53,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 588.053,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 5606.77,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 560.677,
+  "average_price" : 405.25666666666666,
   "currency" : "JPY",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 1,
-  "total_price" : 4553.99,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 650.57,
+  "total_price" : 556.71,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 556.71,
   "currency" : "USD",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 2,
-  "total_price" : 5576.12,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 557.612,
+  "total_price" : 243.62,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 243.62,
   "currency" : "AUD",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 2,
-  "total_price" : 5809.47,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 580.947,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 1114.7,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 185.78333333333333,
+  "total_price" : 2695.51,
+  "year" : 2017,
+  "count" : 5,
+  "average_price" : 539.102,
   "currency" : "GBP",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 2,
-  "total_price" : 3625.93,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 517.99,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 2,
-  "total_price" : 3817.21,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 545.3157142857143,
+  "total_price" : 744.67,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 744.67,
   "currency" : "JPY",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 2,
-  "total_price" : 1762.68,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 352.536,
+  "total_price" : 793.34,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 793.34,
   "currency" : "USD",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 3,
-  "total_price" : 3613.38,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 602.23,
+  "total_price" : 822.35,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 822.35,
   "currency" : "AUD",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 3,
-  "total_price" : 4297.17,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 477.4633333333333,
+  "total_price" : 931.58,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 931.58,
   "currency" : "EUR",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 3,
-  "total_price" : 5387.6,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 489.7818181818182,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 3246.39,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 649.278,
+  "total_price" : 861.89,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 861.89,
   "currency" : "HUF",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 3,
-  "total_price" : 5595.07,
-  "year" : 2018,
-  "count" : 12,
-  "average_price" : 466.2558333333333,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 3,
-  "total_price" : 4194.64,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 599.2342857142858,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 7211.37,
-  "year" : 2018,
-  "count" : 14,
-  "average_price" : 515.0978571428572,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 5357.55,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 535.755,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 4315.36,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 539.42,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 4591.27,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 510.1411111111111,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 4,
-  "total_price" : 6581.67,
-  "year" : 2018,
-  "count" : 13,
-  "average_price" : 506.2823076923077,
+  "total_price" : 730.03,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 730.03,
   "currency" : "JPY",
   "marketplace_name" : "AMAZON"
 }, {
   "month" : 4,
-  "total_price" : 5223.71,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 652.96375,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 3029.81,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 432.83,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 4177.22,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 522.1525,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 2033.91,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 406.782,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 1264.74,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 252.948,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 2669.57,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 533.914,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 5,
-  "total_price" : 3099.91,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 516.6516666666666,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 2832.45,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 354.05625,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 2361.62,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 337.3742857142857,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 5098.35,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 728.3357142857143,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 2199.95,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 439.99,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 4915.25,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 702.1785714285714,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 6,
-  "total_price" : 3414.47,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 379.3855555555556,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 2107.48,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 421.496,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 6591.07,
-  "year" : 2018,
-  "count" : 13,
-  "average_price" : 507.0053846153846,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 2872.57,
-  "year" : 2018,
-  "count" : 4,
-  "average_price" : 718.1425,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 4634.34,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 514.9266666666666,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 4182.39,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 522.79875,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 7,
-  "total_price" : 4671.07,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 467.107,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 2717.01,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 388.14428571428573,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 6147.9,
-  "year" : 2018,
-  "count" : 12,
-  "average_price" : 512.325,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 5848.64,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 584.864,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 1155.62,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 231.124,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 1762.23,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 293.705,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 8,
-  "total_price" : 3249.73,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 361.0811111111111,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 4289.22,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 536.1525,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 6448.77,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 586.2518181818182,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 2566.54,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 320.8175,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 3351.31,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 372.3677777777778,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 3858.86,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 350.80545454545455,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 9,
-  "total_price" : 3499.74,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 499.96285714285716,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 5294.16,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 588.24,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 5261.49,
-  "year" : 2018,
-  "count" : 13,
-  "average_price" : 404.73,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 4185.93,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 465.10333333333335,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 2618.81,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 436.4683333333333,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 5812.13,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 528.3754545454545,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 10,
-  "total_price" : 4507.4,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 643.9142857142857,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 6201.92,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 563.810909090909,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 5246.13,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 524.613,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 1615.41,
-  "year" : 2018,
-  "count" : 4,
-  "average_price" : 403.8525,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 3788.56,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 473.57,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 2789,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 464.8333333333333,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 11,
-  "total_price" : 4202.32,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 600.3314285714285,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 5394.42,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 490.40181818181816,
-  "currency" : "AUD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 3901.76,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 650.2933333333333,
-  "currency" : "EUR",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 5324.04,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 484.00363636363636,
-  "currency" : "GBP",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 4324.85,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 617.8357142857143,
-  "currency" : "HUF",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 4980.44,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 553.3822222222223,
-  "currency" : "JPY",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 12,
-  "total_price" : 6665.76,
-  "year" : 2018,
-  "count" : 14,
-  "average_price" : 476.1257142857143,
-  "currency" : "USD",
-  "marketplace_name" : "AMAZON"
-}, {
-  "month" : 1,
-  "total_price" : 2095.13,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 261.89125,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 1024.99,
-  "year" : 2017,
-  "count" : 3,
-  "average_price" : 341.66333333333336,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 4426.62,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 553.3275,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 5131.65,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 513.165,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 2135.82,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 427.164,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 4623.36,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 462.336,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 5140.66,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 514.066,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 3413.03,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 426.62875,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 2708.68,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 451.44666666666666,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 2544.03,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 508.806,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 2515.26,
-  "year" : 2017,
-  "count" : 3,
-  "average_price" : 838.42,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 3014.65,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 753.6625,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 3,
-  "total_price" : 4873.68,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 609.21,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 3,
-  "total_price" : 3523.46,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 503.3514285714286,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 3,
-  "total_price" : 2112.01,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 528.0025,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 3,
-  "total_price" : 5194.06,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 577.1177777777777,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 3,
-  "total_price" : 6235.87,
-  "year" : 2017,
-  "count" : 12,
-  "average_price" : 519.6558333333334,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 3,
-  "total_price" : 4509.38,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 501.0422222222222,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 3096.55,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 442.3642857142857,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 1996.92,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 399.384,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 1442.13,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 288.426,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 5695.88,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 517.8072727272727,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 2680.12,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 446.68666666666667,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 5996.17,
-  "year" : 2017,
-  "count" : 13,
-  "average_price" : 461.24384615384616,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 4688.96,
-  "year" : 2017,
-  "count" : 11,
-  "average_price" : 426.2690909090909,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 1654.49,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 330.898,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 2487.91,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 414.65166666666664,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 8331.5,
-  "year" : 2017,
-  "count" : 13,
-  "average_price" : 640.8846153846154,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 6256.4,
-  "year" : 2017,
-  "count" : 14,
-  "average_price" : 446.8857142857143,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 5032.15,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 503.215,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 7433.12,
-  "year" : 2017,
-  "count" : 16,
-  "average_price" : 464.57,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 3437.58,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 572.93,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 6168.4,
-  "year" : 2017,
-  "count" : 12,
-  "average_price" : 514.0333333333333,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 8131.21,
-  "year" : 2017,
-  "count" : 17,
-  "average_price" : 478.3064705882353,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 2048.68,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 292.66857142857145,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 1612.25,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 403.0625,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 3378.66,
-  "year" : 2017,
-  "count" : 4,
-  "average_price" : 844.665,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 7617.61,
-  "year" : 2017,
-  "count" : 14,
-  "average_price" : 544.115,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 4999.44,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 714.2057142857143,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 4513.19,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 451.319,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 3880,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 485,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 3247.21,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 360.8011111111111,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 4052.62,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 405.262,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 2725.77,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 454.295,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 2115.41,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 352.5683333333333,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 4025.5,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 575.0714285714286,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 852.53,
+  "total_price" : 524.22,
   "year" : 2017,
   "count" : 2,
-  "average_price" : 426.265,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "average_price" : 262.11,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 8,
-  "total_price" : 2627.93,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 437.98833333333334,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 1452.23,
+  "month" : 4,
+  "total_price" : 1043.2,
   "year" : 2017,
   "count" : 3,
-  "average_price" : 484.07666666666665,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 2283.45,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 456.69,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 7719.01,
-  "year" : 2017,
-  "count" : 14,
-  "average_price" : 551.3578571428571,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 7953.64,
-  "year" : 2017,
-  "count" : 14,
-  "average_price" : 568.1171428571429,
+  "average_price" : 347.73333333333335,
   "currency" : "HUF",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 9,
-  "total_price" : 5672.02,
+  "month" : 4,
+  "total_price" : 922.83,
   "year" : 2017,
-  "count" : 10,
-  "average_price" : 567.202,
+  "count" : 2,
+  "average_price" : 461.415,
   "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 9,
-  "total_price" : 3717.55,
+  "month" : 4,
+  "total_price" : 2187.23,
   "year" : 2017,
-  "count" : 6,
-  "average_price" : 619.5916666666667,
+  "count" : 3,
+  "average_price" : 729.0766666666667,
   "currency" : "USD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 10,
-  "total_price" : 4305.32,
+  "month" : 5,
+  "total_price" : 421.34,
   "year" : 2017,
-  "count" : 12,
-  "average_price" : 358.77666666666664,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 10,
-  "total_price" : 4271.8,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 610.2571428571429,
+  "count" : 2,
+  "average_price" : 210.67,
   "currency" : "EUR",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 10,
-  "total_price" : 5836.74,
+  "month" : 5,
+  "total_price" : 1084.37,
   "year" : 2017,
-  "count" : 13,
-  "average_price" : 448.98,
+  "count" : 2,
+  "average_price" : 542.185,
   "currency" : "GBP",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 10,
-  "total_price" : 4392.26,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 439.226,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 10,
-  "total_price" : 2933.96,
-  "year" : 2017,
-  "count" : 5,
-  "average_price" : 586.792,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 10,
-  "total_price" : 4253.57,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 472.6188888888889,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 3873.95,
-  "year" : 2017,
-  "count" : 10,
-  "average_price" : 387.395,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 4251.94,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 472.4377777777778,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 2408.94,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 401.49,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 5129.84,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 569.9822222222223,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 3422.45,
-  "year" : 2017,
-  "count" : 6,
-  "average_price" : 570.4083333333333,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 3554.07,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 444.25875,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 2408.56,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 344.08,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 2228.32,
-  "year" : 2017,
-  "count" : 8,
-  "average_price" : 278.54,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 4638.4,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 515.3777777777777,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 4028.09,
-  "year" : 2017,
-  "count" : 7,
-  "average_price" : 575.4414285714286,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 2832.32,
-  "year" : 2017,
-  "count" : 9,
-  "average_price" : 314.70222222222225,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 1645.43,
+  "month" : 5,
+  "total_price" : 2907.43,
   "year" : 2017,
   "count" : 4,
-  "average_price" : 411.3575,
+  "average_price" : 726.8575,
+  "currency" : "HUF",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 5,
+  "total_price" : 68.61,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 68.61,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 5,
+  "total_price" : 833.43,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 833.43,
   "currency" : "USD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 1,
-  "total_price" : 5491.75,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 549.175,
+  "month" : 6,
+  "total_price" : 1484,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 742,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 6,
+  "total_price" : 412.03,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 206.015,
+  "currency" : "HUF",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 7,
+  "total_price" : 700.86,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 700.86,
   "currency" : "AUD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 1,
-  "total_price" : 5279.19,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 479.92636363636365,
+  "month" : 7,
+  "total_price" : 884.87,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 442.435,
   "currency" : "EUR",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 1,
-  "total_price" : 1353.79,
-  "year" : 2018,
+  "month" : 7,
+  "total_price" : 905.44,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 452.72,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 7,
+  "total_price" : 830.37,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 276.79,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 8,
+  "total_price" : 950.8,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 950.8,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 8,
+  "total_price" : 8.32,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 8.32,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 8,
+  "total_price" : 99.59,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 99.59,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 9,
+  "total_price" : 1038.69,
+  "year" : 2017,
   "count" : 4,
-  "average_price" : 338.4475,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 3863.22,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 482.9025,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 6541.81,
-  "year" : 2018,
-  "count" : 12,
-  "average_price" : 545.1508333333334,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 1,
-  "total_price" : 2934.93,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 366.86625,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 3097.68,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 442.5257142857143,
+  "average_price" : 259.6725,
   "currency" : "AUD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 2,
-  "total_price" : 1702.81,
-  "year" : 2018,
+  "month" : 9,
+  "total_price" : 731.6,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 365.8,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 9,
+  "total_price" : 719.08,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 359.54,
+  "currency" : "HUF",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 9,
+  "total_price" : 931.91,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 931.91,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 1587.81,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 529.27,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 746.85,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 373.425,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 710.47,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 710.47,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 747.88,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 747.88,
+  "currency" : "HUF",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 2165.99,
+  "year" : 2017,
   "count" : 4,
-  "average_price" : 425.7025,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 5174.92,
-  "year" : 2018,
-  "count" : 13,
-  "average_price" : 398.07076923076926,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 5401.91,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 491.08272727272725,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 2,
-  "total_price" : 4038.69,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 576.9557142857143,
+  "average_price" : 541.4975,
   "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 2,
-  "total_price" : 2210.22,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 442.044,
+  "month" : 10,
+  "total_price" : 895.91,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 895.91,
   "currency" : "USD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 3,
-  "total_price" : 3452.84,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 493.2628571428571,
+  "month" : 11,
+  "total_price" : 1389.13,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 694.565,
   "currency" : "AUD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 3,
-  "total_price" : 6579.79,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 598.1627272727272,
+  "month" : 11,
+  "total_price" : 400.04,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 400.04,
   "currency" : "EUR",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 3,
-  "total_price" : 4529.31,
-  "year" : 2018,
-  "count" : 12,
-  "average_price" : 377.4425,
+  "month" : 11,
+  "total_price" : 387.9,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 387.9,
   "currency" : "GBP",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 3,
-  "total_price" : 7296.49,
-  "year" : 2018,
-  "count" : 12,
-  "average_price" : 608.0408333333334,
+  "month" : 12,
+  "total_price" : 555.83,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 555.83,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 12,
+  "total_price" : 34.53,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 34.53,
   "currency" : "HUF",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 3,
-  "total_price" : 3420.58,
+  "month" : 12,
+  "total_price" : 587.11,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 293.555,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 1,
+  "total_price" : 884.47,
   "year" : 2018,
-  "count" : 7,
-  "average_price" : 488.6542857142857,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "count" : 1,
+  "average_price" : 884.47,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 3,
-  "total_price" : 208.25,
+  "month" : 1,
+  "total_price" : 627.33,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 627.33,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 2,
+  "total_price" : 151.9,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 151.9,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 2,
+  "total_price" : 492.05,
   "year" : 2018,
   "count" : 2,
-  "average_price" : 104.125,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 4938.88,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 548.7644444444444,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 3024.84,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 336.0933333333333,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 4965.26,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 551.6955555555555,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 4,
-  "total_price" : 3602.1,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 600.35,
+  "average_price" : 246.025,
   "currency" : "HUF",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 2,
+  "total_price" : 141.61,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 141.61,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 3,
+  "total_price" : 246.76,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 246.76,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 3,
+  "total_price" : 920.3,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 920.3,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 3,
+  "total_price" : 262.76,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 262.76,
+  "currency" : "HUF",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 3,
+  "total_price" : 925.65,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 925.65,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 4,
-  "total_price" : 5853,
+  "total_price" : 584.9,
   "year" : 2018,
-  "count" : 13,
-  "average_price" : 450.2307692307692,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "count" : 1,
+  "average_price" : 584.9,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 4,
-  "total_price" : 3526.73,
+  "total_price" : 106.76,
   "year" : 2018,
-  "count" : 7,
-  "average_price" : 503.81857142857143,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 1801.53,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 300.255,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 5,
-  "total_price" : 5520.16,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 613.3511111111111,
+  "count" : 1,
+  "average_price" : 106.76,
   "currency" : "EUR",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 5,
-  "total_price" : 4388.33,
+  "month" : 4,
+  "total_price" : 28.06,
   "year" : 2018,
-  "count" : 9,
-  "average_price" : 487.59222222222223,
+  "count" : 1,
+  "average_price" : 28.06,
   "currency" : "GBP",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 5,
-  "total_price" : 2689.23,
+  "month" : 4,
+  "total_price" : 268.79,
   "year" : 2018,
-  "count" : 6,
-  "average_price" : 448.205,
+  "count" : 1,
+  "average_price" : 268.79,
   "currency" : "HUF",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 5,
-  "total_price" : 5310.35,
+  "month" : 4,
+  "total_price" : 806.93,
   "year" : 2018,
-  "count" : 7,
-  "average_price" : 758.6214285714286,
+  "count" : 1,
+  "average_price" : 806.93,
   "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 4,
+  "total_price" : 615.87,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 615.87,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 5,
-  "total_price" : 6921.76,
+  "total_price" : 153.59,
   "year" : 2018,
-  "count" : 14,
-  "average_price" : 494.4114285714286,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 2079.14,
-  "year" : 2018,
-  "count" : 4,
-  "average_price" : 519.785,
+  "count" : 2,
+  "average_price" : 76.795,
   "currency" : "AUD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 6,
-  "total_price" : 4381.37,
+  "month" : 5,
+  "total_price" : 397.48,
   "year" : 2018,
-  "count" : 7,
-  "average_price" : 625.91,
+  "count" : 1,
+  "average_price" : 397.48,
   "currency" : "EUR",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
-  "month" : 6,
-  "total_price" : 2884.57,
+  "month" : 5,
+  "total_price" : 118.86,
   "year" : 2018,
-  "count" : 5,
-  "average_price" : 576.914,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 4768.92,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 433.53818181818184,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 2898.6,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 483.1,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 6,
-  "total_price" : 2370.15,
-  "year" : 2018,
-  "count" : 5,
-  "average_price" : 474.03,
+  "count" : 1,
+  "average_price" : 118.86,
   "currency" : "USD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 6,
+  "total_price" : 105.74,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 105.74,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 6,
+  "total_price" : 1136.91,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 568.455,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 7,
-  "total_price" : 3920.43,
+  "total_price" : 1237.75,
   "year" : 2018,
-  "count" : 8,
-  "average_price" : 490.05375,
+  "count" : 2,
+  "average_price" : 618.875,
   "currency" : "AUD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 7,
-  "total_price" : 3450.09,
+  "total_price" : 460.23,
   "year" : 2018,
-  "count" : 6,
-  "average_price" : 575.015,
+  "count" : 1,
+  "average_price" : 460.23,
   "currency" : "EUR",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 7,
-  "total_price" : 4299.11,
+  "total_price" : 730.12,
   "year" : 2018,
-  "count" : 8,
-  "average_price" : 537.38875,
+  "count" : 1,
+  "average_price" : 730.12,
   "currency" : "GBP",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 7,
-  "total_price" : 1805.67,
+  "total_price" : 998.16,
   "year" : 2018,
-  "count" : 4,
-  "average_price" : 451.4175,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 7,
-  "total_price" : 4080.34,
-  "year" : 2018,
-  "count" : 8,
-  "average_price" : 510.0425,
+  "count" : 1,
+  "average_price" : 998.16,
   "currency" : "JPY",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 7,
-  "total_price" : 5116.78,
+  "total_price" : 877.62,
   "year" : 2018,
-  "count" : 13,
-  "average_price" : 393.59846153846155,
+  "count" : 1,
+  "average_price" : 877.62,
   "currency" : "USD",
-  "marketplace_name" : "EBAY"
+  "marketplace_name" : "AMAZON"
 }, {
   "month" : 8,
-  "total_price" : 3984.12,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 664.02,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 2503.7,
-  "year" : 2018,
-  "count" : 4,
-  "average_price" : 625.925,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 4590.83,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 655.8328571428572,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 5330.79,
-  "year" : 2018,
-  "count" : 10,
-  "average_price" : 533.079,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 3765.22,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 537.8885714285715,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 8,
-  "total_price" : 2838.16,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 473.02666666666664,
-  "currency" : "USD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 7732.93,
-  "year" : 2018,
-  "count" : 15,
-  "average_price" : 515.5286666666667,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 1696.02,
+  "total_price" : 846.45,
   "year" : 2018,
   "count" : 3,
-  "average_price" : 565.34,
+  "average_price" : 282.15,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 8,
+  "total_price" : 2411.65,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 803.8833333333333,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 9,
+  "total_price" : 835.61,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 835.61,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 9,
+  "total_price" : 489.28,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 244.64,
+  "currency" : "HUF",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 9,
+  "total_price" : 1421.31,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 710.655,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 481.45,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 481.45,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 644.16,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 644.16,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 1418.96,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 472.9866666666667,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 24.37,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 24.37,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 10,
+  "total_price" : 70.78,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 70.78,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 11,
+  "total_price" : 733.78,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 733.78,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 11,
+  "total_price" : 2237.23,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 745.7433333333333,
+  "currency" : "EUR",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 11,
+  "total_price" : 832.02,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 832.02,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 11,
+  "total_price" : 967.42,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 967.42,
+  "currency" : "JPY",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 11,
+  "total_price" : 665.42,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 332.71,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 12,
+  "total_price" : 963.2,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 963.2,
+  "currency" : "AUD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 12,
+  "total_price" : 947.33,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 315.77666666666664,
+  "currency" : "GBP",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 12,
+  "total_price" : 675.04,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 675.04,
+  "currency" : "USD",
+  "marketplace_name" : "AMAZON"
+}, {
+  "month" : 1,
+  "total_price" : 1122.19,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 561.095,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 724.16,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 724.16,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 696.7,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 696.7,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 391.54,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 391.54,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 134.66,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 134.66,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 656.43,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 656.43,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 398.83,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 398.83,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 595.76,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 595.76,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 1461.54,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 730.77,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 128.82,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 128.82,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 208.12,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 208.12,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 3364.64,
+  "year" : 2017,
+  "count" : 4,
+  "average_price" : 841.16,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 883.39,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 883.39,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 1121.81,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 560.905,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 130.88,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 130.88,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 1850.25,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 616.75,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 522.65,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 174.21666666666667,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 560.23,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 560.23,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 1017.17,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 508.585,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 132.82,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 132.82,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 1776.82,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 592.2733333333333,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 689.52,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 344.76,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 13.55,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 13.55,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 815.92,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 815.92,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 345.27,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 345.27,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 749.24,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 749.24,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 1744.84,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 581.6133333333333,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 638.94,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 319.47,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 115.89,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 115.89,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 408.89,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 408.89,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 302.26,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 302.26,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 607.08,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 607.08,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 969.79,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 969.79,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 9,
+  "total_price" : 862.89,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 287.63,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 9,
+  "total_price" : 1069.58,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 534.79,
   "currency" : "EUR",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 9,
-  "total_price" : 3116.36,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 445.19428571428574,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 3073.1,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 512.1833333333333,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 3701.13,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 616.855,
-  "currency" : "JPY",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 9,
-  "total_price" : 3767.03,
-  "year" : 2018,
-  "count" : 7,
-  "average_price" : 538.1471428571429,
+  "total_price" : 1204.25,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 602.125,
   "currency" : "USD",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 10,
-  "total_price" : 1691.06,
+  "total_price" : 1627,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 542.3333333333334,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 10,
+  "total_price" : 294.67,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 294.67,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 10,
+  "total_price" : 767.53,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 383.765,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 10,
+  "total_price" : 644.66,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 322.33,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 10,
+  "total_price" : 2244.92,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 748.3066666666666,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 11,
+  "total_price" : 964.57,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 964.57,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 11,
+  "total_price" : 280.63,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 280.63,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 11,
+  "total_price" : 836.53,
+  "year" : 2017,
+  "count" : 3,
+  "average_price" : 278.8433333333333,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 11,
+  "total_price" : 1039.1,
+  "year" : 2017,
+  "count" : 4,
+  "average_price" : 259.775,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 12,
+  "total_price" : 347.78,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 347.78,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 12,
+  "total_price" : 1109.29,
+  "year" : 2017,
+  "count" : 2,
+  "average_price" : 554.645,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 12,
+  "total_price" : 995.86,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 995.86,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 12,
+  "total_price" : 615.98,
+  "year" : 2017,
+  "count" : 1,
+  "average_price" : 615.98,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 2744.7,
   "year" : 2018,
   "count" : 4,
-  "average_price" : 422.765,
+  "average_price" : 686.175,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 703.16,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 703.16,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 631.02,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 631.02,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 1,
+  "total_price" : 457.22,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 457.22,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 515.61,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 257.805,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 1347.87,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 449.29,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 348.97,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 348.97,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 258.06,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 258.06,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 2,
+  "total_price" : 1208.33,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 402.77666666666664,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 1976.77,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 658.9233333333333,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 811.71,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 811.71,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 674.46,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 674.46,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 3,
+  "total_price" : 621.35,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 621.35,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 1176.48,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 392.16,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 837.47,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 279.1566666666667,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 714.97,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 357.485,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 4,
+  "total_price" : 145.19,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 145.19,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 1376.22,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 688.11,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 2103.12,
+  "year" : 2018,
+  "count" : 4,
+  "average_price" : 525.78,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 391.6,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 391.6,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 5,
+  "total_price" : 3261.21,
+  "year" : 2018,
+  "count" : 6,
+  "average_price" : 543.535,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 448.91,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 448.91,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 1670.86,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 556.9533333333334,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 1928.86,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 964.43,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 2239.91,
+  "year" : 2018,
+  "count" : 4,
+  "average_price" : 559.9775,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 6,
+  "total_price" : 689.02,
+  "year" : 2018,
+  "count" : 3,
+  "average_price" : 229.67333333333335,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 404.82,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 404.82,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 355.46,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 177.73,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 1160.71,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 580.355,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 538.14,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 538.14,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 179,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 179,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 7,
+  "total_price" : 291.74,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 291.74,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 917.02,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 917.02,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 566.92,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 283.46,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 496.76,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 496.76,
+  "currency" : "GBP",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 153.69,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 153.69,
+  "currency" : "HUF",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 429.85,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 429.85,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 8,
+  "total_price" : 767.26,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 767.26,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 9,
+  "total_price" : 1058.02,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 529.01,
+  "currency" : "AUD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 9,
+  "total_price" : 275.99,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 275.99,
+  "currency" : "EUR",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 9,
+  "total_price" : 938.35,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 469.175,
+  "currency" : "JPY",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 9,
+  "total_price" : 820.42,
+  "year" : 2018,
+  "count" : 2,
+  "average_price" : 410.21,
+  "currency" : "USD",
+  "marketplace_name" : "EBAY"
+}, {
+  "month" : 10,
+  "total_price" : 406.27,
+  "year" : 2018,
+  "count" : 1,
+  "average_price" : 406.27,
   "currency" : "AUD",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 10,
-  "total_price" : 2344.17,
+  "total_price" : 632.08,
   "year" : 2018,
-  "count" : 6,
-  "average_price" : 390.695,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 10,
-  "total_price" : 3831.16,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 638.5266666666666,
+  "count" : 1,
+  "average_price" : 632.08,
   "currency" : "GBP",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 10,
-  "total_price" : 3873.86,
+  "total_price" : 1249.29,
   "year" : 2018,
-  "count" : 8,
-  "average_price" : 484.2325,
+  "count" : 2,
+  "average_price" : 624.645,
   "currency" : "HUF",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 10,
-  "total_price" : 3830.8,
+  "total_price" : 1278.97,
   "year" : 2018,
-  "count" : 9,
-  "average_price" : 425.64444444444445,
+  "count" : 2,
+  "average_price" : 639.485,
   "currency" : "JPY",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 10,
-  "total_price" : 5925.55,
+  "total_price" : 585.44,
   "year" : 2018,
-  "count" : 9,
-  "average_price" : 658.3944444444444,
+  "count" : 1,
+  "average_price" : 585.44,
   "currency" : "USD",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 11,
-  "total_price" : 4008.46,
+  "total_price" : 182.3,
   "year" : 2018,
-  "count" : 7,
-  "average_price" : 572.6371428571429,
-  "currency" : "AUD",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 2418.39,
-  "year" : 2018,
-  "count" : 9,
-  "average_price" : 268.71,
+  "count" : 1,
+  "average_price" : 182.3,
   "currency" : "EUR",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 11,
-  "total_price" : 3386.1,
+  "total_price" : 1804.33,
   "year" : 2018,
-  "count" : 7,
-  "average_price" : 483.72857142857146,
-  "currency" : "GBP",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 5806.94,
-  "year" : 2018,
-  "count" : 12,
-  "average_price" : 483.9116666666667,
-  "currency" : "HUF",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 11,
-  "total_price" : 5031,
-  "year" : 2018,
-  "count" : 11,
-  "average_price" : 457.3636363636364,
+  "count" : 2,
+  "average_price" : 902.165,
   "currency" : "JPY",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 11,
-  "total_price" : 5138.57,
+  "total_price" : 625.64,
   "year" : 2018,
-  "count" : 8,
-  "average_price" : 642.32125,
+  "count" : 1,
+  "average_price" : 625.64,
   "currency" : "USD",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 12,
-  "total_price" : 6699.02,
+  "total_price" : 736.06,
   "year" : 2018,
-  "count" : 9,
-  "average_price" : 744.3355555555555,
+  "count" : 1,
+  "average_price" : 736.06,
   "currency" : "AUD",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 12,
-  "total_price" : 4398.94,
+  "total_price" : 891.46,
   "year" : 2018,
-  "count" : 8,
-  "average_price" : 549.8675,
-  "currency" : "EUR",
-  "marketplace_name" : "EBAY"
-}, {
-  "month" : 12,
-  "total_price" : 2090.93,
-  "year" : 2018,
-  "count" : 6,
-  "average_price" : 348.48833333333334,
+  "count" : 1,
+  "average_price" : 891.46,
   "currency" : "GBP",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 12,
-  "total_price" : 5759.5,
+  "total_price" : 333.42,
   "year" : 2018,
-  "count" : 11,
-  "average_price" : 523.5909090909091,
+  "count" : 1,
+  "average_price" : 333.42,
   "currency" : "HUF",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 12,
-  "total_price" : 6239.72,
+  "total_price" : 621.17,
   "year" : 2018,
-  "count" : 14,
-  "average_price" : 445.69428571428574,
+  "count" : 1,
+  "average_price" : 621.17,
   "currency" : "JPY",
   "marketplace_name" : "EBAY"
 }, {
   "month" : 12,
-  "total_price" : 7167.24,
+  "total_price" : 1852.59,
   "year" : 2018,
-  "count" : 13,
-  "average_price" : 551.3261538461538,
+  "count" : 2,
+  "average_price" : 926.295,
   "currency" : "USD",
   "marketplace_name" : "EBAY"
 } ] ]

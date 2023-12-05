@@ -1,10 +1,11 @@
-C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\tasks\Process.java
+C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\tasks\ProcessTasks.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\tasks\UploadFile.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\CatalogApplication.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\model\Listing.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\model\DateSerializer.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\model\Marketplace.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\tasks\GetData.java
+C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\model\ValidatedObject.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\tasks\ValidateObjects.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\exception\AppException.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\report\WriteReport.java
@@ -17,4 +18,5 @@ C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\service\
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\model\Location.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\repository\ListingRepository.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\exception\GlobalExceptionHandler.java
+C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\utils\QueryApp.java
 C:\Users\Samu\IdeaProjects\catalog\src\main\java\com\caklipakli\catalog\tasks\GenerateReport.java

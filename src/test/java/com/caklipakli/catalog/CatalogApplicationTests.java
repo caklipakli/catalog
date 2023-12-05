@@ -10,7 +10,6 @@ import javax.sql.DataSource;
 @Log4j2
 class CatalogApplicationTests {
 
-
 	@Test
 	void contextLoads() {
 	}

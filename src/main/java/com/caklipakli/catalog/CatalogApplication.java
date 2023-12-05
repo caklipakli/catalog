@@ -1,7 +1,6 @@
 package com.caklipakli.catalog;
 
-import com.caklipakli.catalog.tasks.GenerateReport;
-import com.caklipakli.catalog.tasks.Process;
+import com.caklipakli.catalog.tasks.*;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -15,14 +14,13 @@ import picocli.CommandLine;
 @Log4j2
 public class CatalogApplication implements CommandLineRunner {
 
-	private Process process;
-	private GenerateReport generateReport;
+	private ProcessTasks tasks;
+
 
 	private ApplicationContext context;
 	@Autowired
-	public CatalogApplication(Process process, GenerateReport generateReport) {
-		this.process = process;
-		this.generateReport = generateReport;
+	public CatalogApplication(ProcessTasks process) {
+		this.tasks = process;
 	}
 
 	public static void main(String[] args) {
@@ -33,14 +31,9 @@ public class CatalogApplication implements CommandLineRunner {
 	public void run(String... args) {
 		log.info("Starting....");
 
-		CommandLine commandLine = new CommandLine(process);
-		commandLine.addSubcommand("report", generateReport);
+		new CommandLine(tasks).execute(args);
 
-		commandLine.parseWithHandler(new CommandLine.RunAll(), args);
 
-		log.info("Closing app as everything finished....");
-
-		System.exit(0);
 	}
 
 }
