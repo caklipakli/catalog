@@ -1,5 +1,6 @@
 package com.caklipakli.catalog;
 
+import com.caklipakli.catalog.exception.*;
 import lombok.extern.log4j.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.boot.*;
@@ -27,7 +28,9 @@ public class Runner implements CommandLineRunner, ExitCodeGenerator {
     public void run(String... args) throws Exception {
         log.info("Inside Runner");
 
-        exitCode = new CommandLine(myCommand, factory).execute(args);
+        exitCode = new CommandLine(myCommand, factory)
+                .setExecutionExceptionHandler(new GlobalExceptionHandler())
+                .execute(args);
     }
 
     @Override

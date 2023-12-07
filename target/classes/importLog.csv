@@ -1,591 +1,551 @@
-e3ebd4bd-2126-4c0c-8104-0171eb757758; EBAY; Upload time is required 
-fdf137b2-6d22-436a-9b26-f7a145e0977e; AMAZON; Listing price must be positive 
-8bc747c7-b3f6-41ac-8193-4e578a1ea005; EBAY; Owner email address must be a valid email address 
-a32a59c0-41bc-46f4-b36f-ffc22839e20a; AMAZON; Listing status must be between 1 and 3 
-b4a4bda7-9ff9-494a-84de-3bde2c319124; EBAY; Listing status must be between 1 and 3 
-b4a4bda7-9ff9-494a-84de-3bde2c319124; EBAY; Owner email address must be a valid email address 
-5bc48cbb-130a-427c-8505-8d73673ac353; AMAZON; Listing price must be positive 
-c8af7e45-ec85-4c41-ae74-975f7e786515; EBAY; Upload time is required 
-8fdf7ce8-d9e3-4a12-bc17-a6e56c90a756; AMAZON; Listing price must be positive 
-8fdf7ce8-d9e3-4a12-bc17-a6e56c90a756; AMAZON; Owner email address must be a valid email address 
-577ebe54-cc42-4854-bf10-a1fdc45a300f; EBAY; Listing status must be between 1 and 3 
-2c14f90b-572f-49df-b891-a7d18f5aa8a6; EBAY; Upload time is required 
-2c14f90b-572f-49df-b891-a7d18f5aa8a6; EBAY; Owner email address must be a valid email address 
-7d47470f-330d-42b0-9384-44a6df3ef259; EBAY; Upload time is required 
-68c812b9-3ad7-41fd-ad83-f0bb6f5f17fc; AMAZON; Upload time is required 
-a7ba9af7-3a8c-42e2-888e-d01f4c6a2ef0; AMAZON; Listing status must be between 1 and 3 
-260ee33c-b392-4152-b507-df0b9f85a662; AMAZON; Upload time is required 
-260ee33c-b392-4152-b507-df0b9f85a662; AMAZON; Listing status must be between 1 and 3 
-fbba3e0b-d497-4b09-aa26-f7fdcef9aec6; EBAY; Listing price must be positive 
-94c02984-c0ac-4de5-8d50-bd37b40dabac; AMAZON; Owner email address must be a valid email address 
-10c153ea-9d24-411f-a332-c37e29b8721a; EBAY; Listing price must be positive 
-a7e610c9-179a-49fc-bc4f-ed8a9a73ed72; EBAY; Listing price must be positive 
-05010463-aeb5-453d-b466-dfaffa41efa2; EBAY; Listing status must be between 1 and 3 
-9ce2e6bb-412e-4af9-8139-21568828252e; AMAZON; Owner email address must be a valid email address 
-cb9faa4d-c81a-4dd1-b0c4-9edc8e4cd4dc; EBAY; Listing status must be between 1 and 3 
-ff22b9cf-bb37-4daf-9b19-3e4081da01dc; EBAY; Listing status must be between 1 and 3 
-ff22b9cf-bb37-4daf-9b19-3e4081da01dc; EBAY; Listing price must be positive 
-7e4860b7-8cf7-43a4-b16a-d329268d0bf5; AMAZON; Listing status must be between 1 and 3 
-1b761034-b9ab-433f-ad3e-15c2a6c55845; AMAZON; Listing status must be between 1 and 3 
-0a502c06-c248-402d-9d46-e684468d3ce7; EBAY; Owner email address must be a valid email address 
-0a502c06-c248-402d-9d46-e684468d3ce7; EBAY; Upload time is required 
-c08a8010-aea3-433c-8c75-120af487dd82; AMAZON; Listing price must be positive 
-22c0f164-0ae0-4a57-8fe8-7b61a91ad61b; AMAZON; Listing status must be between 1 and 3 
-22c0f164-0ae0-4a57-8fe8-7b61a91ad61b; AMAZON; Upload time is required 
-e6454878-a04e-4f79-a948-bc3c67b2287d; AMAZON; Listing status must be between 1 and 3 
-222fe89d-da35-41b3-b071-8987289c36b0; EBAY; Listing status must be between 1 and 3 
-37438d8c-7c36-4f74-ad25-76ade441c2c7; EBAY; Listing status must be between 1 and 3 
-18db6bd4-c972-4024-88e4-5b1e98f636fc; AMAZON; Listing price must be positive 
-18db6bd4-c972-4024-88e4-5b1e98f636fc; AMAZON; Owner email address must be a valid email address 
-1522c8be-513c-4b96-93e7-1820c7ad3439; AMAZON; Listing status must be between 1 and 3 
-1522c8be-513c-4b96-93e7-1820c7ad3439; AMAZON; Listing price must be positive 
-e10de5ab-d132-4091-a27e-11e6bf1c8a1f; EBAY; Owner email address must be a valid email address 
-8c3dce0d-fc81-4883-b0c9-99cba51f8d30; EBAY; Owner email address must be a valid email address 
-11bc8dfb-3bfa-4f7f-a436-953e5f30a80e; EBAY; Upload time is required 
-11bc8dfb-3bfa-4f7f-a436-953e5f30a80e; EBAY; Listing status must be between 1 and 3 
-11bc8dfb-3bfa-4f7f-a436-953e5f30a80e; EBAY; Owner email address must be a valid email address 
-61a0f923-6254-42ac-9430-5fd161ade443; AMAZON; Listing status must be between 1 and 3 
-61a0f923-6254-42ac-9430-5fd161ade443; AMAZON; Listing price must be positive 
-61a0f923-6254-42ac-9430-5fd161ade443; AMAZON; Upload time is required 
-60a216b1-4746-43c7-b2ee-8453acd0208b; EBAY; Listing status must be between 1 and 3 
-97d77f74-15fd-4cb8-9af5-672f659d39af; AMAZON; Owner email address must be a valid email address 
-30d8b7b6-1541-44bc-87f6-2366205d58af; AMAZON; Owner email address must be a valid email address 
-bea7c831-87d6-47b5-ade1-b587af3a8362; AMAZON; Listing status must be between 1 and 3 
-afd4b106-857d-4bf1-abc1-fd0cb9c3f9d3; EBAY; Listing status must be between 1 and 3 
-eb7c283c-5071-4d66-9c8d-238c7ee12c27; AMAZON; Upload time is required 
-eb7c283c-5071-4d66-9c8d-238c7ee12c27; AMAZON; Listing status must be between 1 and 3 
-02923a27-466d-4e9d-818d-3ceec4c05c02; AMAZON; Listing status must be between 1 and 3 
-81d41ab8-8fb0-402b-bfde-bc5d1916337c; AMAZON; Listing status must be between 1 and 3 
-4d9e41c5-afea-4c1f-b734-d6c9947474f6; AMAZON; Owner email address must be a valid email address 
-4d308430-11d2-4092-bcae-fba8c7dcc382; EBAY; Listing price must be positive 
-ed9c95b1-5081-4dd3-86c0-ef6e886f16c1; EBAY; Owner email address must be a valid email address 
-0621c02e-7331-41f1-93d1-fe71aaf7329b; AMAZON; Upload time is required 
-0621c02e-7331-41f1-93d1-fe71aaf7329b; AMAZON; Listing status must be between 1 and 3 
-5996c07e-4f7d-47e1-9fec-765dfe84b93f; AMAZON; Listing status must be between 1 and 3 
-5996c07e-4f7d-47e1-9fec-765dfe84b93f; AMAZON; Owner email address must be a valid email address 
-67e9bab9-b73b-4110-87cd-2b4cf9c388ae; EBAY; Upload time is required 
-a66fb85e-a869-4728-83fe-6c8f91e6283f; EBAY; Listing price must be positive 
-a66fb85e-a869-4728-83fe-6c8f91e6283f; EBAY; Listing status must be between 1 and 3 
-a7a81534-b9d9-4339-91fb-42e5932ac5a6; EBAY; Upload time is required 
-1b90342d-263f-4cd9-9548-79343deabd68; AMAZON; Owner email address must be a valid email address 
-512d4c93-4179-450f-b7ba-15969422dbce; AMAZON; Owner email address must be a valid email address 
-248f1c37-997e-45e8-97c3-67b0b50039b7; EBAY; Listing status must be between 1 and 3 
-52012b4a-886e-43a6-b959-139b64a324d2; AMAZON; Upload time is required 
-42adabbf-f801-4b69-9efc-c9c883949cb5; EBAY; Owner email address must be a valid email address 
-1f259e6a-1b75-4dfb-878e-1d582280a35e; AMAZON; Listing status must be between 1 and 3 
-f23fb8cc-07b3-40a1-8cd0-774cb4a46ad8; EBAY; Listing status must be between 1 and 3 
-a489c568-86c3-4bb9-904e-6bfbe166fc2c; AMAZON; Listing price must be positive 
-a489c568-86c3-4bb9-904e-6bfbe166fc2c; AMAZON; Owner email address must be a valid email address 
-c8fc3501-51e8-4af7-a9c9-d953820dcf36; AMAZON; Owner email address must be a valid email address 
-c8fc3501-51e8-4af7-a9c9-d953820dcf36; AMAZON; Listing price must be positive 
-e2c933de-c81e-4642-8928-cfebb49ca82d; AMAZON; Listing status must be between 1 and 3 
-9a456c34-787d-4a40-ac1d-5bdbba2f0ca5; EBAY; Listing status must be between 1 and 3 
-ed30800d-d080-4f8e-a812-f6f631b7c16d; AMAZON; Listing status must be between 1 and 3 
-58046b28-9e5b-4eae-9179-6bd520141b2b; EBAY; Owner email address must be a valid email address 
-58046b28-9e5b-4eae-9179-6bd520141b2b; EBAY; Upload time is required 
-aec91aff-00f4-4933-9eca-34d24fc015b7; AMAZON; Listing price must be positive 
-df8d6852-9c68-405f-b0f9-997712b69253; EBAY; Listing status must be between 1 and 3 
-6ed1426d-b106-41e9-967e-52c0780a2346; AMAZON; Owner email address must be a valid email address 
-c6fe1c66-bd8d-493f-a8ae-8b49f3d89093; AMAZON; Listing status must be between 1 and 3 
-e2f0daa5-794c-40d8-b3fb-195ad3f7663b; EBAY; Listing status must be between 1 and 3 
-201656d0-3ee1-46cf-9b24-f60e6909c847; EBAY; Owner email address must be a valid email address 
-be878292-8b36-40cc-83c7-7b6d4ed712d6; AMAZON; Listing status must be between 1 and 3 
-23a7c1f1-a357-4d08-a9fb-d8de321a74b3; EBAY; Listing price must be positive 
-23a7c1f1-a357-4d08-a9fb-d8de321a74b3; EBAY; Listing status must be between 1 and 3 
-ccbd7937-d5e7-4b46-8237-75cc6c7a43ac; AMAZON; Listing status must be between 1 and 3 
-c38a1ced-b84f-4cf1-8455-99275188f40d; AMAZON; Listing status must be between 1 and 3 
-d4a53223-856f-4b5c-b0aa-aabd8293e2a9; EBAY; Listing price must be positive 
-0b56e4a8-90f2-4603-bd4f-39fde380be87; EBAY; Upload time is required 
-7af6033e-1a33-4b50-8372-f91aa1abac53; EBAY; Listing status must be between 1 and 3 
-7d31edf8-94c2-4e19-aec4-1915574b8968; AMAZON; Listing status must be between 1 and 3 
-35f28103-11dc-472c-8af5-e4f2a04bce13; AMAZON; Upload time is required 
-12ad06ab-4929-40df-996d-0549c80ac463; EBAY; Listing price must be positive 
-7a907062-3c93-474c-a21a-8686948e823b; AMAZON; Owner email address must be a valid email address 
-79461b99-f905-4e7b-8173-38f30d18b4f8; EBAY; Listing status must be between 1 and 3 
-bd452436-0adc-491e-9b62-7355e3dea940; AMAZON; Upload time is required 
-76adda7b-cedd-417b-9974-bd166976289f; EBAY; Listing status must be between 1 and 3 
-e1a1d1ed-0e41-4e1c-a6b8-a26d4ac1ddf4; EBAY; Owner email address must be a valid email address 
-20c3aea5-4a9a-475e-98c4-f493886e381d; EBAY; Listing price must be positive 
-20c3aea5-4a9a-475e-98c4-f493886e381d; EBAY; Upload time is required 
-20c3aea5-4a9a-475e-98c4-f493886e381d; EBAY; Listing status must be between 1 and 3 
-1f6b0149-c45a-4e0a-9082-376b21bcf36a; AMAZON; Upload time is required 
-1f6b0149-c45a-4e0a-9082-376b21bcf36a; AMAZON; Listing price must be positive 
-ebf535ef-5e37-4061-bd2e-b84819dcba24; AMAZON; Listing price must be positive 
-ebf535ef-5e37-4061-bd2e-b84819dcba24; AMAZON; Listing status must be between 1 and 3 
-93e63a13-62f8-4b20-8c7e-6944fac2fa12; EBAY; Upload time is required 
-d22012da-be74-405e-b110-329f5ead2d6b; AMAZON; Listing status must be between 1 and 3 
-1ae94c0f-863d-4c86-b4d7-03961d39b9a7; EBAY; Listing status must be between 1 and 3 
-4293d2d4-7fa0-4f43-81ed-6eeda6172f5f; EBAY; Listing status must be between 1 and 3 
-aebfb39e-0975-432b-83c6-f6f041562e68; EBAY; Owner email address must be a valid email address 
-c727df08-9d81-48de-8367-0082c2a659a6; AMAZON; Listing status must be between 1 and 3 
-d7825dd9-10d7-4e69-b284-87f5689a67fe; AMAZON; Owner email address must be a valid email address 
-59fe5e65-03b6-46b9-a0ff-3ecba313ef73; AMAZON; Upload time is required 
-4b35cf0d-05f4-42b5-bdda-bc44d7ac6fc4; EBAY; Listing status must be between 1 and 3 
-4b35cf0d-05f4-42b5-bdda-bc44d7ac6fc4; EBAY; Owner email address must be a valid email address 
-5d644b37-623c-4198-af2c-df2d497825eb; EBAY; Listing status must be between 1 and 3 
-b9c3a03e-49d9-4900-a733-db0b7313f1cb; AMAZON; Listing price must be positive 
-eb37ac55-850e-4714-a7f8-0b086f1fe3fe; AMAZON; Listing price must be positive 
-2013bcaa-ecdd-4c93-ac03-624e229b432f; EBAY; Listing status must be between 1 and 3 
-2013bcaa-ecdd-4c93-ac03-624e229b432f; EBAY; Owner email address must be a valid email address 
-46bc7aad-5949-4796-885d-997ce792104e; AMAZON; Listing status must be between 1 and 3 
-5f129704-bfab-4293-a1e8-e1300676e366; EBAY; Listing price must be positive 
-5f129704-bfab-4293-a1e8-e1300676e366; EBAY; Owner email address must be a valid email address 
-8356551b-d940-48a1-b30d-087532195046; EBAY; Upload time is required 
-8356551b-d940-48a1-b30d-087532195046; EBAY; Listing status must be between 1 and 3 
-1ab1ca30-c4c0-426e-afda-a005779e4d37; EBAY; Listing status must be between 1 and 3 
-9a4ccecf-ec79-48d9-a9b7-34a8646a3814; EBAY; Listing status must be between 1 and 3 
-f260bbaf-6458-4ed5-a288-54171190be9c; EBAY; Owner email address must be a valid email address 
-cfad1981-611d-43a6-a552-8192879c482f; AMAZON; Listing price must be positive 
-3f71c8eb-417e-4da6-b868-cf6301aa079e; AMAZON; Listing status must be between 1 and 3 
-efbd746c-d689-498b-a0b7-4db8e6e604b5; EBAY; Listing price must be positive 
-efbd746c-d689-498b-a0b7-4db8e6e604b5; EBAY; Listing status must be between 1 and 3 
-7ccf6e68-1b70-422a-8ac9-68c0120531c1; EBAY; Owner email address must be a valid email address 
-9dd22ac5-8ba8-4ec3-bfab-85472f3a7ce7; AMAZON; Listing price must be positive 
-9e599b8f-c6a7-4dc1-9edf-ddf35c0edd8e; EBAY; Listing status must be between 1 and 3 
-87a998e8-5518-431b-a4d7-7a7939ba1eae; AMAZON; Owner email address must be a valid email address 
-87a998e8-5518-431b-a4d7-7a7939ba1eae; AMAZON; Listing status must be between 1 and 3 
-ba332c06-c7d7-4c5c-b3e4-d8d6b3e5895a; AMAZON; Upload time is required 
-72bcce1f-bd39-4124-8258-7b80cf467c3c; AMAZON; Owner email address must be a valid email address 
-72bcce1f-bd39-4124-8258-7b80cf467c3c; AMAZON; Listing status must be between 1 and 3 
-54950442-dd76-447d-9f71-018e90a18fc7; EBAY; Listing status must be between 1 and 3 
-fcc3ddcc-945f-45e3-a812-fc239f8d01b4; AMAZON; Owner email address must be a valid email address 
-02671268-c7da-4143-bf49-80b137b0183e; EBAY; Owner email address must be a valid email address 
-02671268-c7da-4143-bf49-80b137b0183e; EBAY; Upload time is required 
-a934433a-2c65-471b-9504-4e4dbe124dab; AMAZON; Upload time is required 
-3af815f7-b5a9-4abb-b267-e96a0bf3ca5f; AMAZON; Listing status must be between 1 and 3 
-97a3fc6d-92e8-48f8-8e4a-1a971e86bfee; EBAY; Listing price must be positive 
-dd22de02-0f8e-46f8-9794-296e953e643e; EBAY; Listing status must be between 1 and 3 
-edf4d238-af07-4236-90a3-990bd5a825f6; EBAY; Listing price must be positive 
-c74b9d4b-8c65-473c-a20b-d1b914abd957; EBAY; Upload time is required 
-b051474b-af40-4b13-bea4-1eda2f54918f; EBAY; Listing status must be between 1 and 3 
-d7228701-f76c-4af7-8973-bd70c5e21b62; EBAY; Listing status must be between 1 and 3 
-af0f168f-7c2f-40a3-85e6-0785ee375ca8; EBAY; Upload time is required 
-b4f6c10b-2d02-4551-ada2-999b79e0984a; AMAZON; Upload time is required 
-c8cb3127-9ac2-4925-8139-27603971706b; EBAY; Listing status must be between 1 and 3 
-3288547b-14a6-425b-aad3-2af5a01aa66c; EBAY; Owner email address must be a valid email address 
-0b0ca4a1-44ec-41c4-a174-5a24fce31af7; AMAZON; Upload time is required 
-658cb875-d7a0-4fa0-9b43-73128341ef19; EBAY; Owner email address must be a valid email address 
-c4be3e7f-547f-4737-88fa-2903e66c3f75; EBAY; Listing status must be between 1 and 3 
-4de303fb-243f-45f4-b1c6-81b90f60fa16; EBAY; Upload time is required 
-06481f33-51e2-42e8-99dd-ff8ca0df80c2; EBAY; Listing status must be between 1 and 3 
-167ea566-9e5f-463e-8196-0dc3cbc84c4d; AMAZON; Owner email address must be a valid email address 
-4ddd9c5b-bff4-455e-8ea1-161ac853fe6f; AMAZON; Listing price must be positive 
-f84f881a-00c2-49df-aa55-c6a5e947e6ca; AMAZON; Listing price must be positive 
-80cbdfec-f98f-41ad-9fe3-3c410ad1457b; EBAY; Listing status must be between 1 and 3 
-2d13e46e-2b77-4acf-a6c2-bc0ea95d4cfc; EBAY; Listing price must be positive 
-c35c6ced-7bd4-400a-9b97-4f2ed96b81c3; AMAZON; Listing status must be between 1 and 3 
-14155456-8714-4d59-9aad-12d5355a0a03; AMAZON; Listing status must be between 1 and 3 
-35c75e3f-8560-4f40-9be1-366698f1d3cb; EBAY; Listing price must be positive 
-473145db-f039-4807-bbe4-2a00dd2460fd; EBAY; Listing price must be positive 
-5627ea3c-2098-4c03-8721-99045b3c911f; EBAY; Owner email address must be a valid email address 
-8d71a75f-4caa-4669-8185-ac86a3939756; EBAY; Listing status must be between 1 and 3 
-8d71a75f-4caa-4669-8185-ac86a3939756; EBAY; Owner email address must be a valid email address 
-588bc164-c1bc-4f3e-8210-7e3832cd2d59; AMAZON; Listing status must be between 1 and 3 
-0ed33f93-664a-4cbf-b657-20a7f29470ac; EBAY; Owner email address must be a valid email address 
-0886ee07-41e2-458e-9b40-fd487327cba3; AMAZON; Owner email address must be a valid email address 
-033bdeea-8ef7-4c12-a335-ccac75aa8897; AMAZON; Owner email address must be a valid email address 
-ffa4ad08-fd37-490e-9da4-a3af2f039256; AMAZON; Listing status must be between 1 and 3 
-652bb620-6bed-44c3-9176-a3215dd86c5e; EBAY; Listing status must be between 1 and 3 
-4ccc9824-0a0e-4803-abc5-10ff4110b803; EBAY; Upload time is required 
-c3186406-fd59-44d0-952c-2301b18d8f03; EBAY; Listing status must be between 1 and 3 
-c3186406-fd59-44d0-952c-2301b18d8f03; EBAY; Listing price must be positive 
-c3347173-acee-4901-9f5e-5e03f5e7162e; EBAY; Listing status must be between 1 and 3 
-d22267ae-720d-4608-a856-ef2f826df0ee; EBAY; Listing status must be between 1 and 3 
-09c54b68-b0d2-4bc3-91ab-7acff0fa5fd9; AMAZON; Listing status must be between 1 and 3 
-6409a668-f657-490a-882d-edafa5c2c3eb; EBAY; Listing price must be positive 
-7b2f4380-3d79-48c1-b693-eccef1a37dd5; EBAY; Owner email address must be a valid email address 
-67053316-9e37-4f28-abb1-e85fd1a6f802; EBAY; Listing status must be between 1 and 3 
-17647171-18b1-47a4-b8c6-71b9edeb576f; AMAZON; Listing status must be between 1 and 3 
-19e1e24a-8390-42ba-b9d0-28178b7a9f92; EBAY; Listing status must be between 1 and 3 
-4c4f4cdb-36b9-44c4-a60a-abf34fd09633; AMAZON; Owner email address must be a valid email address 
-fc1eec24-0d9f-4dc4-aa2b-f9251086b7b1; EBAY; Owner email address must be a valid email address 
-55e1a7ff-1a29-4b2e-9cb6-48e674ec14aa; AMAZON; Listing status must be between 1 and 3 
-0a1342a3-d81f-44c7-8f12-f542b32abb0d; EBAY; Listing status must be between 1 and 3 
-5842f240-a99d-4bb7-997d-edfecdb42dda; EBAY; Listing status must be between 1 and 3 
-c5544e2c-8025-4e02-830f-f12663e26c3c; EBAY; Listing status must be between 1 and 3 
-1dfcd6e5-c676-4ea9-b988-673f25da62be; EBAY; Listing price must be positive 
-790e3ee0-bd69-458f-98a4-771f2c507abb; EBAY; Listing price must be positive 
-790e3ee0-bd69-458f-98a4-771f2c507abb; EBAY; Listing status must be between 1 and 3 
-42d02a2b-e815-4ca7-aa39-fd08daba052f; EBAY; Owner email address must be a valid email address 
-e23582f7-4088-4b50-b891-a641f6be1401; AMAZON; Upload time is required 
-62332dd2-c13d-42f9-9c73-13e096701775; EBAY; Owner email address must be a valid email address 
-7ac9ac73-0489-4ca5-84ff-b83e455481fe; EBAY; Listing price must be positive 
-2d2757c4-a746-48c6-a426-6aaa20d73fac; EBAY; Listing status must be between 1 and 3 
-2d2757c4-a746-48c6-a426-6aaa20d73fac; EBAY; Listing price must be positive 
-a7c51255-acc5-461a-b062-c145e7c3069c; AMAZON; Owner email address must be a valid email address 
-7d9e94bf-de0b-4eed-9334-3f76597be2ef; EBAY; Upload time is required 
-abfb1200-1cea-48c4-a61a-e537b735ad14; EBAY; Listing status must be between 1 and 3 
-ae2e98ca-6198-499a-a5d2-f3baa2be3ddb; EBAY; Owner email address must be a valid email address 
-19cd95b7-a98f-4135-8036-c568bc63e605; EBAY; Owner email address must be a valid email address 
-80921db4-ece5-41b4-b154-17d03b1960ad; EBAY; Upload time is required 
-5098bb6f-3475-499d-abd4-40682aa0c121; AMAZON; Owner email address must be a valid email address 
-ed8e1cf2-3438-429d-9b6e-d21630b5ac49; AMAZON; Listing status must be between 1 and 3 
-800273d9-afe7-4bf6-9540-03723f1abcb8; EBAY; Listing status must be between 1 and 3 
-d28716d6-c8b2-4eaa-97ae-d102109eea50; AMAZON; Owner email address must be a valid email address 
-5ca8c6c8-fedc-4d37-b5e3-cabb8c392c72; EBAY; Upload time is required 
-4ea16bf4-eeb3-4b96-8e17-00b0d8ab1053; AMAZON; Listing status must be between 1 and 3 
-4ea16bf4-eeb3-4b96-8e17-00b0d8ab1053; AMAZON; Upload time is required 
-4ea16bf4-eeb3-4b96-8e17-00b0d8ab1053; AMAZON; Owner email address must be a valid email address 
-a5534c83-00e3-4926-9890-e50af5a153b6; EBAY; Listing status must be between 1 and 3 
-9a458e41-c014-41d1-ab9f-ac185c612b5e; AMAZON; Listing status must be between 1 and 3 
-cd9d0a9a-05c2-44b4-ac42-3004a9c0fa48; AMAZON; Owner email address must be a valid email address 
-5f8435a7-7bfc-4efc-ac2c-da1537ccfe3a; AMAZON; Owner email address must be a valid email address 
-94bb7e28-fdbd-4d09-8753-aabcada95352; AMAZON; Owner email address must be a valid email address 
-17d46608-52f4-45ef-bb63-c5a148086c76; EBAY; Listing price must be positive 
-405a64a3-5c33-4a82-beaf-320baf518ab9; EBAY; Upload time is required 
-7b1907ca-9ee4-490a-9803-56f4538d650d; AMAZON; Listing status must be between 1 and 3 
-8c87df69-fd8b-4389-b88c-1ef01b4eae7a; EBAY; Listing status must be between 1 and 3 
-0311d188-5ead-49a0-9d32-f725d273885e; EBAY; Owner email address must be a valid email address 
-0675a428-1fc5-4920-9b78-d546d31fa235; AMAZON; Listing status must be between 1 and 3 
-41b954e2-32f3-4a1c-976c-6c146a1e6d50; AMAZON; Listing price must be positive 
-41b954e2-32f3-4a1c-976c-6c146a1e6d50; AMAZON; Upload time is required 
-41b954e2-32f3-4a1c-976c-6c146a1e6d50; AMAZON; Listing status must be between 1 and 3 
-b20ef742-207d-440e-b3fa-5b1b02e2076b; AMAZON; Owner email address must be a valid email address 
-5bc78eb0-c36e-4ab4-a9d7-279284616ed9; EBAY; Listing price must be positive 
-cad2cf3e-ea7d-4b8d-9293-68774ea36af6; EBAY; Owner email address must be a valid email address 
-3bccc3fb-f291-4197-95e2-104b1c4e3104; AMAZON; Owner email address must be a valid email address 
-3bb501c2-8e5d-43d0-82b9-cce0ef772b4b; AMAZON; Listing price must be positive 
-3bb501c2-8e5d-43d0-82b9-cce0ef772b4b; AMAZON; Listing status must be between 1 and 3 
-72a823a0-19f3-4664-92b5-05341dee3f63; AMAZON; Listing status must be between 1 and 3 
-8448dbc9-d36f-4130-802e-c8206a5068b2; EBAY; Listing status must be between 1 and 3 
-8448dbc9-d36f-4130-802e-c8206a5068b2; EBAY; Upload time is required 
-971b0e27-7e72-4ee9-a38f-a4cb44f9b6d8; AMAZON; Owner email address must be a valid email address 
-971b0e27-7e72-4ee9-a38f-a4cb44f9b6d8; AMAZON; Listing status must be between 1 and 3 
-9af8f475-307a-4eb1-b30c-227ebdf72b48; AMAZON; Upload time is required 
-d085a074-9f2e-4137-bfe8-7be72dd7fc27; AMAZON; Listing status must be between 1 and 3 
-d085a074-9f2e-4137-bfe8-7be72dd7fc27; AMAZON; Owner email address must be a valid email address 
-53bf1898-6a4a-4fb9-ac3b-9db44b7594c9; EBAY; Owner email address must be a valid email address 
-56f8e60f-a53b-4375-ab7e-bf84ac1f2f9b; EBAY; Listing status must be between 1 and 3 
-c165cac4-813d-4793-914b-04d15494a339; EBAY; Listing status must be between 1 and 3 
-e1b7a0cb-97aa-470e-89cf-91de3cfc7511; AMAZON; Listing price must be positive 
-7b2404da-1bee-4216-98ac-24921759f80c; AMAZON; Listing price must be positive 
-42a07d81-59a5-470c-bdeb-4abc6169d228; AMAZON; Upload time is required 
-fe5dd93e-695e-46d8-8aca-89d63944ec42; EBAY; Listing status must be between 1 and 3 
-fe5dd93e-695e-46d8-8aca-89d63944ec42; EBAY; Owner email address must be a valid email address 
-7406a1f9-a1d3-4178-9aff-86228ba48b1f; AMAZON; Owner email address must be a valid email address 
-7406a1f9-a1d3-4178-9aff-86228ba48b1f; AMAZON; Upload time is required 
-507988a4-bf75-44b8-ba7d-03663d74879c; EBAY; Listing status must be between 1 and 3 
-fbe12f28-a64e-4e26-b389-8c7016fad5a6; EBAY; Owner email address must be a valid email address 
-fbe12f28-a64e-4e26-b389-8c7016fad5a6; EBAY; Listing status must be between 1 and 3 
-9306d031-b9b7-4048-abc3-e838a5436c4f; AMAZON; Owner email address must be a valid email address 
-1c73f69d-de31-44e8-b659-9681cfe4caef; AMAZON; Owner email address must be a valid email address 
-1c73f69d-de31-44e8-b659-9681cfe4caef; AMAZON; Upload time is required 
-f4a17112-840c-44b4-9c8a-fb560e852177; AMAZON; Owner email address must be a valid email address 
-f4a17112-840c-44b4-9c8a-fb560e852177; AMAZON; Listing status must be between 1 and 3 
-685897d1-37d2-4ca1-b53f-90ae05e58218; AMAZON; Listing price must be positive 
-7a5d648b-91e7-4f05-b7e0-295c63b833e1; EBAY; Listing status must be between 1 and 3 
-504c587a-56b8-4f21-a12b-b253f366abd7; EBAY; Listing status must be between 1 and 3 
-72f8ba46-eecf-4467-b7da-4a4fccf33604; AMAZON; Owner email address must be a valid email address 
-57ae2a31-3193-4354-ba93-79ddab1a1257; EBAY; Owner email address must be a valid email address 
-57ae2a31-3193-4354-ba93-79ddab1a1257; EBAY; Listing status must be between 1 and 3 
-865e9671-50ec-44bb-a3b7-a7b6eb08371f; AMAZON; Listing status must be between 1 and 3 
-b155b6a5-997f-4bc6-99dd-eec5f12884d4; AMAZON; Listing status must be between 1 and 3 
-c18b5393-fb48-4835-ae89-e659c1431d42; EBAY; Upload time is required 
-c18b5393-fb48-4835-ae89-e659c1431d42; EBAY; Listing status must be between 1 and 3 
-c18b5393-fb48-4835-ae89-e659c1431d42; EBAY; Listing price must be positive 
-16c4b09b-279c-4585-8146-3d1ae0119fad; EBAY; Listing price must be positive 
-5040ddbc-4e54-47a3-839e-905efa566bfa; AMAZON; Owner email address must be a valid email address 
-5040ddbc-4e54-47a3-839e-905efa566bfa; AMAZON; Listing status must be between 1 and 3 
-d5f6f111-c275-4b1d-aa20-b65c78bfe971; AMAZON; Owner email address must be a valid email address 
-4e65f733-e414-4980-a4b7-ffaa54f90822; EBAY; Listing price must be positive 
-b949265a-28a3-44ae-82af-24da6f068625; EBAY; Owner email address must be a valid email address 
-a95f4046-e43b-4c31-ad9c-ee099d10bdeb; EBAY; Upload time is required 
-a95f4046-e43b-4c31-ad9c-ee099d10bdeb; EBAY; Owner email address must be a valid email address 
-5f274212-9cb8-4d06-b1eb-9c5629e476c1; AMAZON; Listing status must be between 1 and 3 
-265feff9-748f-42af-8962-10786266cb55; AMAZON; Listing status must be between 1 and 3 
-175296e8-30a9-4b16-875a-03900974e226; EBAY; Listing status must be between 1 and 3 
-acc91a11-87ad-4bee-8609-534e5efd727a; AMAZON; Listing status must be between 1 and 3 
-acc91a11-87ad-4bee-8609-534e5efd727a; AMAZON; Upload time is required 
-4796fc23-9991-48b2-9d60-7d62ff91a73b; AMAZON; Listing price must be positive 
-4796fc23-9991-48b2-9d60-7d62ff91a73b; AMAZON; Listing status must be between 1 and 3 
-1fc427c2-319e-42c8-b605-9c0f264ded3f; EBAY; Upload time is required 
-1fc427c2-319e-42c8-b605-9c0f264ded3f; EBAY; Listing status must be between 1 and 3 
-1fc427c2-319e-42c8-b605-9c0f264ded3f; EBAY; Listing price must be positive 
-35fc5c4a-78dc-4d90-996a-88ed0fb2d49c; AMAZON; Listing price must be positive 
-56a170e4-57f9-4e9d-b43b-33c5326f3379; AMAZON; Listing status must be between 1 and 3 
-a89d16bd-69b9-4839-9204-91b964fb0dca; AMAZON; Listing status must be between 1 and 3 
-fabce2de-a387-48d6-b3d7-d9539a47f13d; EBAY; Listing status must be between 1 and 3 
-e01819d9-bcc0-4b94-8c5a-8fe2927ed7c4; AMAZON; Upload time is required 
-e01819d9-bcc0-4b94-8c5a-8fe2927ed7c4; AMAZON; Listing status must be between 1 and 3 
-1bd0f5f8-0e51-43c4-ac93-657059b29af9; AMAZON; Owner email address must be a valid email address 
-1daae261-15a5-4dae-950b-2ad8162a4e3d; EBAY; Listing status must be between 1 and 3 
-20e0fc17-c9e4-4f3d-9049-e4275f41e0b8; EBAY; Upload time is required 
-63c01f4c-9c8e-411c-9d04-b0b55000ef30; EBAY; Upload time is required 
-63c01f4c-9c8e-411c-9d04-b0b55000ef30; EBAY; Owner email address must be a valid email address 
-63c01f4c-9c8e-411c-9d04-b0b55000ef30; EBAY; Listing price must be positive 
-00719ac2-75fd-40e1-b469-01c0e06f5548; EBAY; Owner email address must be a valid email address 
-d1fb33ee-0a0a-4dd7-9d2d-589b195ad5a7; AMAZON; Listing status must be between 1 and 3 
-064fd084-ab2a-4f3c-ba91-72776d42bbf1; EBAY; Listing status must be between 1 and 3 
-83e87d7f-47fd-4c8b-b830-d8d32931efc6; AMAZON; Upload time is required 
-83e87d7f-47fd-4c8b-b830-d8d32931efc6; AMAZON; Listing status must be between 1 and 3 
-0e55a47d-6a24-4c9b-b78b-611dcdb85509; EBAY; Listing status must be between 1 and 3 
-0e55a47d-6a24-4c9b-b78b-611dcdb85509; EBAY; Owner email address must be a valid email address 
-b471fa46-fbc9-4c50-b862-5ef40add2d90; AMAZON; Listing status must be between 1 and 3 
-b471fa46-fbc9-4c50-b862-5ef40add2d90; AMAZON; Owner email address must be a valid email address 
-0b373e2c-958d-4a7a-ae53-9b6491849d8c; EBAY; Upload time is required 
-0b373e2c-958d-4a7a-ae53-9b6491849d8c; EBAY; Listing status must be between 1 and 3 
-fbb4bba3-7277-405f-92a5-b5ced43255d6; EBAY; Upload time is required 
-9f654e22-76eb-4ffe-8d29-6e650b2927b2; EBAY; Listing price must be positive 
-9f654e22-76eb-4ffe-8d29-6e650b2927b2; EBAY; Owner email address must be a valid email address 
-dcc2c0bf-78db-475b-8d56-d58a24e6e970; AMAZON; Listing status must be between 1 and 3 
-651f633b-1318-47d7-9e37-aae505d9dd2e; AMAZON; Listing status must be between 1 and 3 
-439bcdb6-ed24-482b-ae26-e008d0187358; EBAY; Listing status must be between 1 and 3 
-aea9efdd-ac63-403c-b785-9f8894eaf47a; AMAZON; Upload time is required 
-674482f3-cd0f-48bf-a793-617efbc51a62; EBAY; Upload time is required 
-674482f3-cd0f-48bf-a793-617efbc51a62; EBAY; Listing price must be positive 
-1a6a9629-d498-4c22-bb8d-1a5422698b43; AMAZON; Listing status must be between 1 and 3 
-dd00263a-c5cc-44b7-b0ca-9bffee3a9086; AMAZON; Listing status must be between 1 and 3 
-025c1d32-aa85-4d47-8e42-a57e0e2dabf6; EBAY; Upload time is required 
-31c93cc5-5500-473e-9feb-7dd1dc0a6563; AMAZON; Owner email address must be a valid email address 
-ef59b59b-9b37-40c4-b444-d94bdee9c43c; AMAZON; Listing status must be between 1 and 3 
-846bbfb0-a9de-405f-9d3d-6bd5357315a6; EBAY; Upload time is required 
-edb369aa-ca22-4a46-854c-d7a01cb0bfbd; EBAY; Listing status must be between 1 and 3 
-edb369aa-ca22-4a46-854c-d7a01cb0bfbd; EBAY; Owner email address must be a valid email address 
-c36f73b7-795e-484b-a5c2-8064bc8582eb; AMAZON; Upload time is required 
-352dbbb0-55f6-4a67-963a-6fe4d0c8dc34; EBAY; Listing status must be between 1 and 3 
-950069b6-62c1-4618-bcac-449bd440dba0; AMAZON; Upload time is required 
-0dfbaa9b-287e-45c2-a914-9c7f0f5a9a34; AMAZON; Listing status must be between 1 and 3 
-e9520523-e789-4f50-8044-c43e00999b3b; EBAY; Owner email address must be a valid email address 
-8933ae3f-a34a-425b-a051-d1a3437b9dc1; EBAY; Listing status must be between 1 and 3 
-69357263-de45-462d-b314-f440031d36aa; AMAZON; Upload time is required 
-fe99a414-a70d-4eb3-b3fd-572112b031ba; EBAY; Listing price must be positive 
-ab21f348-ada4-4e05-aeaf-c19fd0114232; EBAY; Upload time is required 
-27d558fb-1187-4673-b8db-9796012bd2a7; EBAY; Listing price must be positive 
-9521200c-25fe-42b7-a281-a4c0b47c2e8f; EBAY; Listing status must be between 1 and 3 
-fdbc2118-de65-41e8-a071-6160ab1665a0; AMAZON; Listing status must be between 1 and 3 
-f89727cc-905b-4b8c-aa56-e0e30bc78d02; EBAY; Listing status must be between 1 and 3 
-68f83264-4e39-4e73-bf76-4b9371cca825; AMAZON; Listing status must be between 1 and 3 
-869ae627-a570-40b5-ac21-d985b4d1b97c; EBAY; Listing price must be positive 
-16931a5c-bd6b-4f0d-810a-36fe1b4c372c; EBAY; Upload time is required 
-16931a5c-bd6b-4f0d-810a-36fe1b4c372c; EBAY; Listing status must be between 1 and 3 
-16931a5c-bd6b-4f0d-810a-36fe1b4c372c; EBAY; Listing price must be positive 
-d713f893-e92e-4405-8626-b530564e569a; EBAY; Listing status must be between 1 and 3 
-5e0f289a-6278-4d8b-9ed2-218c217fc568; EBAY; Listing status must be between 1 and 3 
-e6ced841-9a14-4197-9ec9-39823d40f259; EBAY; Owner email address must be a valid email address 
-e5ab46c5-ce5e-424c-9e04-e75af6f17c44; EBAY; Listing status must be between 1 and 3 
-bef9f6c3-a504-4587-9893-5193b07e9f6e; EBAY; Listing status must be between 1 and 3 
-4a7fbd64-b215-4e50-82e5-1f66771cbb9d; AMAZON; Listing status must be between 1 and 3 
-1bd1fe67-9e69-4f24-8bd2-c87b8649c059; EBAY; Upload time is required 
-31e1f9c7-b4bd-4dfc-9c35-831225220555; EBAY; Upload time is required 
-31e1f9c7-b4bd-4dfc-9c35-831225220555; EBAY; Listing status must be between 1 and 3 
-eb78f7db-9868-4757-8f97-d990a27858b9; EBAY; Owner email address must be a valid email address 
-8c7a861d-cb51-4677-8e7e-0224d380d429; AMAZON; Upload time is required 
-6e8f6346-2693-498e-bb39-1bc71031eb1b; EBAY; Listing price must be positive 
-6e8f6346-2693-498e-bb39-1bc71031eb1b; EBAY; Upload time is required 
-02ee9aa0-2ff3-40e1-ad47-9d6f99e5c47f; EBAY; Owner email address must be a valid email address 
-bdbde940-690f-47ab-bf07-a070ac14c3d9; EBAY; Owner email address must be a valid email address 
-c0166098-6181-4447-a4e9-c0bdbb4b25c4; EBAY; Listing price must be positive 
-fd3bf7f3-f631-48ef-ab2f-39843c5af2c9; AMAZON; Owner email address must be a valid email address 
-d3ddc146-4ef9-45d2-9844-bb2c9a5e422d; AMAZON; Listing status must be between 1 and 3 
-a054e37a-0a6d-49fd-899f-50ce8b5941ec; EBAY; Owner email address must be a valid email address 
-a054e37a-0a6d-49fd-899f-50ce8b5941ec; EBAY; Upload time is required 
-47af46ce-4399-4f4a-97e2-b8329a09f7da; EBAY; Upload time is required 
-47af46ce-4399-4f4a-97e2-b8329a09f7da; EBAY; Owner email address must be a valid email address 
-8496e70f-dfd4-493f-aaaf-65d832b938ce; AMAZON; Owner email address must be a valid email address 
-5f70b158-e0c4-4ae7-940f-b1544bed31b8; EBAY; Owner email address must be a valid email address 
-cb3d6fe0-6c43-43b8-9a21-bf3db2a55622; AMAZON; Upload time is required 
-3093d78e-051e-417e-a697-c3a7165e6269; EBAY; Listing status must be between 1 and 3 
-7a34d420-a77b-4baa-a6c0-7970cdf5edfb; EBAY; Listing status must be between 1 and 3 
-3cb90603-b4a6-49b0-9e46-1e8a4982eb39; EBAY; Owner email address must be a valid email address 
-9b30786e-16ce-4174-adee-7a9d0c662e90; EBAY; Listing status must be between 1 and 3 
-9b30786e-16ce-4174-adee-7a9d0c662e90; EBAY; Owner email address must be a valid email address 
-15cdeaee-51b6-4736-b334-774d8b864402; AMAZON; Listing price must be positive 
-15cdeaee-51b6-4736-b334-774d8b864402; AMAZON; Listing status must be between 1 and 3 
-15cdeaee-51b6-4736-b334-774d8b864402; AMAZON; Owner email address must be a valid email address 
-4ee2138c-e9e3-4544-8696-b313301a7c95; AMAZON; Owner email address must be a valid email address 
-155b36e9-ef27-42df-a98b-cbbed52af5b9; AMAZON; Listing status must be between 1 and 3 
-d469e488-6e29-4631-8730-a7b57c248de7; AMAZON; Owner email address must be a valid email address 
-b24b606e-3494-4722-9c10-2f67b0ad69d1; EBAY; Listing status must be between 1 and 3 
-1bf779d8-e860-48f5-9118-b90b8ee9421f; EBAY; Owner email address must be a valid email address 
-1bf779d8-e860-48f5-9118-b90b8ee9421f; EBAY; Listing status must be between 1 and 3 
-55d7d957-76f9-4f0f-aa85-9d57df243ace; EBAY; Listing status must be between 1 and 3 
-3f17568a-b20e-4f3c-a628-a626268ed7fc; AMAZON; Listing status must be between 1 and 3 
-6cb11357-0110-4f90-b1e0-4901f59c1407; AMAZON; Owner email address must be a valid email address 
-a30dcdba-fdcd-4ae3-8d15-3fffca9a999a; EBAY; Upload time is required 
-a30dcdba-fdcd-4ae3-8d15-3fffca9a999a; EBAY; Listing status must be between 1 and 3 
-a30dcdba-fdcd-4ae3-8d15-3fffca9a999a; EBAY; Owner email address must be a valid email address 
-3fa2d71b-4998-41a1-869a-81a99d2c5774; EBAY; Owner email address must be a valid email address 
-3fa2d71b-4998-41a1-869a-81a99d2c5774; EBAY; Listing status must be between 1 and 3 
-3f06f7ec-39ce-44be-9354-8a548040f1ad; AMAZON; Listing status must be between 1 and 3 
-07fedf8f-6055-4cf8-aeba-9e5a5a8952c8; AMAZON; Listing price must be positive 
-75d73866-9c80-4200-90b8-2e687868db24; EBAY; Listing status must be between 1 and 3 
-5877cb67-c81a-4d45-9a3a-c1838adc4878; AMAZON; Listing status must be between 1 and 3 
-49d09eaa-2c8d-4411-af8b-655a268bb319; AMAZON; Listing status must be between 1 and 3 
-8b536bfb-3987-450c-9fcd-ea77ad277367; EBAY; Listing status must be between 1 and 3 
-ecd3f9d9-d92e-4d19-8b75-b6badd03a7b5; EBAY; Listing status must be between 1 and 3 
-dc0e7d3d-d932-49f9-8a35-2f932819ab54; EBAY; Upload time is required 
-d345f574-7b1b-4281-a166-95e9ac785026; AMAZON; Listing price must be positive 
-4f279ed9-e453-418d-a7e0-cc2ea2453462; AMAZON; Listing status must be between 1 and 3 
-6b2981b2-0d55-4ec2-b213-c0b02c1520ea; EBAY; Upload time is required 
-a24eac6f-9bba-480f-8c0e-0de8ebc8f621; AMAZON; Owner email address must be a valid email address 
-52d4af30-f74e-4973-8266-33ef7b774863; EBAY; Listing price must be positive 
-bbe374d6-f5de-43d1-ac6a-c9acc6aed6cd; AMAZON; Listing status must be between 1 and 3 
-8c6e4e95-4dbe-4863-a1f2-f21a8c74e096; EBAY; Upload time is required 
-65ff1302-1be8-4e38-a257-854ff1ccd61a; EBAY; Listing status must be between 1 and 3 
-206a427d-20b9-40f6-8e8b-63bfb9597041; AMAZON; Listing status must be between 1 and 3 
-3147ff5e-2ed6-4967-87af-874783de0c21; EBAY; Owner email address must be a valid email address 
-f1f3aa50-5007-4395-89e1-317f97f32301; AMAZON; Listing status must be between 1 and 3 
-28d67d06-298b-4713-8cf6-ac1739d3156a; EBAY; Listing status must be between 1 and 3 
-9a77ec02-6aaa-4334-a20b-b530a7dfe2f0; EBAY; Listing status must be between 1 and 3 
-c3b07e3c-2cce-48b2-90da-c3d48f83411a; AMAZON; Listing status must be between 1 and 3 
-76b5a53e-d0ef-4263-b7f1-94a34d5c9de0; AMAZON; Listing status must be between 1 and 3 
-76b5a53e-d0ef-4263-b7f1-94a34d5c9de0; AMAZON; Owner email address must be a valid email address 
-76b5a53e-d0ef-4263-b7f1-94a34d5c9de0; AMAZON; Listing price must be positive 
-889d0fe3-e060-400f-9802-0ce6f4d93b7a; AMAZON; Owner email address must be a valid email address 
-38ad3ccb-ecd2-45e3-a686-19529aed987b; AMAZON; Owner email address must be a valid email address 
-38ad3ccb-ecd2-45e3-a686-19529aed987b; AMAZON; Upload time is required 
-f66f3621-8049-4998-9779-e7909ddffd72; AMAZON; Listing status must be between 1 and 3 
-ead5b1f2-9a4f-4a04-8913-168f3b9b3945; AMAZON; Owner email address must be a valid email address 
-f82a8723-a794-4b84-9773-19c2cc5aa501; AMAZON; Owner email address must be a valid email address 
-face69d6-8c6e-4ef8-b55a-5ab0526304d0; EBAY; Listing price must be positive 
-face69d6-8c6e-4ef8-b55a-5ab0526304d0; EBAY; Upload time is required 
-c63f9acd-4628-4043-856a-f722d79d1db3; AMAZON; Listing price must be positive 
-49e8a50d-57fe-4bfa-861c-d7d606f489b9; EBAY; Listing status must be between 1 and 3 
-49e8a50d-57fe-4bfa-861c-d7d606f489b9; EBAY; Listing price must be positive 
-b957b223-3bc2-4263-b5e7-8206e176116a; AMAZON; Listing status must be between 1 and 3 
-90a2339e-911b-48ff-9048-20e7265e0518; EBAY; Listing status must be between 1 and 3 
-dec4ee8f-46ba-4f5f-bc21-0449872c6260; AMAZON; Upload time is required 
-b9cbac4e-06d4-420a-a308-96be5a88bfbb; AMAZON; Owner email address must be a valid email address 
-d4c9035b-11d1-49b9-861e-76dd84374466; EBAY; Owner email address must be a valid email address 
-d4c9035b-11d1-49b9-861e-76dd84374466; EBAY; Listing status must be between 1 and 3 
-cf7ac117-1f6e-4cdb-b0e9-b026bf97455c; AMAZON; Listing status must be between 1 and 3 
-cf7ac117-1f6e-4cdb-b0e9-b026bf97455c; AMAZON; Owner email address must be a valid email address 
-33b5c0c8-f81c-4383-8029-1eb0ab92a543; AMAZON; Owner email address must be a valid email address 
-64e88728-10d8-4b76-be27-e5d346968075; AMAZON; Owner email address must be a valid email address 
-1c0aa05f-26ee-4890-99ca-60e37d5140cf; EBAY; Upload time is required 
-1c0aa05f-26ee-4890-99ca-60e37d5140cf; EBAY; Listing status must be between 1 and 3 
-50917e6d-9005-4336-bab1-dde72e12b389; EBAY; Listing status must be between 1 and 3 
-b5e5083d-d9c3-4a2c-8a7b-c2771ca1b09f; AMAZON; Owner email address must be a valid email address 
-773e0c90-a8f4-4302-b4eb-e07be382ddba; EBAY; Owner email address must be a valid email address 
-4bafb563-8d91-4013-aadb-198675697e59; AMAZON; Upload time is required 
-4bafb563-8d91-4013-aadb-198675697e59; AMAZON; Listing status must be between 1 and 3 
-ee4129e9-a49c-4553-88c7-62d4d7803216; AMAZON; Listing status must be between 1 and 3 
-be8d5310-a4da-486b-99f1-d00db05b9c02; EBAY; Listing status must be between 1 and 3 
-0b037b74-5510-4263-87f8-51e618f9f48f; EBAY; Owner email address must be a valid email address 
-e7e2efc1-95fc-46a4-8fbb-7fe817535e2c; AMAZON; Listing status must be between 1 and 3 
-e7e2efc1-95fc-46a4-8fbb-7fe817535e2c; AMAZON; Listing price must be positive 
-2e0e9cd9-48f6-4223-a8a4-45733b0e0f30; EBAY; Upload time is required 
-2e0e9cd9-48f6-4223-a8a4-45733b0e0f30; EBAY; Owner email address must be a valid email address 
-6813aaa5-7534-4d76-bd09-5817ba21c6a4; EBAY; Listing status must be between 1 and 3 
-6813aaa5-7534-4d76-bd09-5817ba21c6a4; EBAY; Owner email address must be a valid email address 
-90f3ffb8-8c34-433e-92ca-c18afa383dce; EBAY; Listing status must be between 1 and 3 
-5941cc64-22f7-47f4-8a89-3b4309ab2eb0; EBAY; Listing status must be between 1 and 3 
-113a6f09-8c01-4000-9122-c198090ef2aa; EBAY; Owner email address must be a valid email address 
-b32652c7-6c34-4b88-8dd9-ccdf420cd878; AMAZON; Listing status must be between 1 and 3 
-1d431b5c-2d63-4b91-879c-2c1a898ae364; EBAY; Upload time is required 
-befb96aa-ccee-4a15-bb72-5398304974e7; AMAZON; Listing status must be between 1 and 3 
-befb96aa-ccee-4a15-bb72-5398304974e7; AMAZON; Owner email address must be a valid email address 
-a52c7f94-17b4-4032-964d-3e72496acf51; AMAZON; Listing status must be between 1 and 3 
-ab2ac394-06d1-4a52-8d0e-e47888af39d1; AMAZON; Listing status must be between 1 and 3 
-3074e08c-21ce-4620-a07d-ba7eede6e8ca; EBAY; Listing status must be between 1 and 3 
-723fdcd4-dfd3-4d31-972f-8597a803b9d8; AMAZON; Listing status must be between 1 and 3 
-8175dc76-1e89-4e14-a1a7-b72a7f17a8e2; EBAY; Upload time is required 
-f526acc3-cb78-4083-ba86-23e48fa6ac00; EBAY; Listing status must be between 1 and 3 
-d3e50d3f-da21-4fbb-8b1f-da4603435796; AMAZON; Listing status must be between 1 and 3 
-d3e50d3f-da21-4fbb-8b1f-da4603435796; AMAZON; Owner email address must be a valid email address 
-25e8a8f5-91c2-46e5-9cfa-68b107c4fdb8; EBAY; Listing status must be between 1 and 3 
-25e8a8f5-91c2-46e5-9cfa-68b107c4fdb8; EBAY; Owner email address must be a valid email address 
-7ae828d0-1261-489a-90b4-c9b263d61708; EBAY; Listing price must be positive 
-105b4661-376a-4764-9986-787d76253ae1; AMAZON; Owner email address must be a valid email address 
-8a102449-80d6-4a73-9ef5-34554392d68f; AMAZON; Listing status must be between 1 and 3 
-832f048b-f3fb-4662-9e5d-1ec2c68c723b; EBAY; Listing price must be positive 
-832f048b-f3fb-4662-9e5d-1ec2c68c723b; EBAY; Owner email address must be a valid email address 
-13da1ea6-9892-4417-99ed-90ea0357a92b; AMAZON; Listing status must be between 1 and 3 
-61457722-f20c-4ca1-bcc1-a0ece46bda90; AMAZON; Listing price must be positive 
-61457722-f20c-4ca1-bcc1-a0ece46bda90; AMAZON; Listing status must be between 1 and 3 
-3c0f46c1-bfae-4905-ad71-968a067a6c5a; AMAZON; Owner email address must be a valid email address 
-bd1c5c1a-9ae3-4ddc-8207-1f944f03581b; AMAZON; Listing status must be between 1 and 3 
-3917ff9d-7507-4260-a167-06bdbb33e5ca; EBAY; Owner email address must be a valid email address 
-f56edc5b-df86-4fb2-bd1d-ec17fd99d3c1; EBAY; Upload time is required 
-e1193247-4ea8-462a-a340-f9ed6a272a64; AMAZON; Listing status must be between 1 and 3 
-e1193247-4ea8-462a-a340-f9ed6a272a64; AMAZON; Owner email address must be a valid email address 
-e1193247-4ea8-462a-a340-f9ed6a272a64; AMAZON; Listing price must be positive 
-e9fb68e2-7fc8-45e5-84b8-d22e99dd52e9; EBAY; Listing status must be between 1 and 3 
-e9fb68e2-7fc8-45e5-84b8-d22e99dd52e9; EBAY; Upload time is required 
-79ccb457-a67d-4d56-a5b3-33453de4fae1; EBAY; Listing price must be positive 
-79ccb457-a67d-4d56-a5b3-33453de4fae1; EBAY; Listing status must be between 1 and 3 
-5c52ebba-c259-4eab-a95d-7f18dd4e5b4b; EBAY; Listing status must be between 1 and 3 
-c648fc4c-5a09-4727-869c-a1c0e1d0922a; EBAY; Listing price must be positive 
-2e0bb40f-37e9-43bb-ad6a-ce607087ced7; AMAZON; Owner email address must be a valid email address 
-75d2c5ae-fb2e-4e36-ae35-fbf333156fd7; EBAY; Listing status must be between 1 and 3 
-aa6e7fc0-a8a7-4c08-b083-4b26e1f92e01; EBAY; Listing status must be between 1 and 3 
-4c77974c-0954-4320-8335-8ea449a8f05a; AMAZON; Upload time is required 
-22c357ef-1019-4f5e-8521-3b8a1ff5580c; AMAZON; Listing status must be between 1 and 3 
-22c357ef-1019-4f5e-8521-3b8a1ff5580c; AMAZON; Listing price must be positive 
-22c357ef-1019-4f5e-8521-3b8a1ff5580c; AMAZON; Upload time is required 
-ab9e5f96-db2a-4d80-a6db-e88d66d696c0; EBAY; Owner email address must be a valid email address 
-2adac290-15b8-41d3-995a-2e479dffed97; AMAZON; Owner email address must be a valid email address 
-14051909-38b5-4354-bb99-c844381f5bbf; EBAY; Listing status must be between 1 and 3 
-14051909-38b5-4354-bb99-c844381f5bbf; EBAY; Listing price must be positive 
-818115f9-3429-4ffa-beb2-1326c79e9fd4; EBAY; Listing status must be between 1 and 3 
-848cea04-0db6-45d1-85bf-0bfd77a00e2e; AMAZON; Listing price must be positive 
-848cea04-0db6-45d1-85bf-0bfd77a00e2e; AMAZON; Upload time is required 
-7a73b7fc-409c-4442-9cc5-266bed2bac54; AMAZON; Listing price must be positive 
-6ee0facb-88a0-4f5e-ada7-adc2c91b2edd; AMAZON; Listing status must be between 1 and 3 
-7a23f7dc-8a33-4c5c-94f7-710e12c1de01; AMAZON; Owner email address must be a valid email address 
-7a23f7dc-8a33-4c5c-94f7-710e12c1de01; AMAZON; Listing price must be positive 
-23252dd7-1924-41d6-b708-79f03915c894; AMAZON; Listing status must be between 1 and 3 
-ac88f29d-8264-45d2-bb3a-214a47c0ee09; AMAZON; Owner email address must be a valid email address 
-971c0851-2fed-4f8b-add6-4080b3bf7fe1; AMAZON; Upload time is required 
-971c0851-2fed-4f8b-add6-4080b3bf7fe1; AMAZON; Listing status must be between 1 and 3 
-621986fc-c9f3-44a0-9e8a-43854f2e47c3; AMAZON; Listing status must be between 1 and 3 
-0ef0c43e-c898-406f-8581-b1d5ba08c5e2; AMAZON; Listing status must be between 1 and 3 
-935be1e7-2546-42b3-9124-afdd756439d3; EBAY; Listing status must be between 1 and 3 
-29b0a407-fa30-4940-a1a0-7e206748c0b7; AMAZON; Upload time is required 
-29b0a407-fa30-4940-a1a0-7e206748c0b7; AMAZON; Listing status must be between 1 and 3 
-247d5d4c-da7a-4c79-a3f9-1e2b46c98c15; EBAY; Listing status must be between 1 and 3 
-1ddfc29f-af3f-473f-b448-9e97530fb094; AMAZON; Upload time is required 
-1ddfc29f-af3f-473f-b448-9e97530fb094; AMAZON; Listing status must be between 1 and 3 
-1ddfc29f-af3f-473f-b448-9e97530fb094; AMAZON; Owner email address must be a valid email address 
-c222583a-d744-4ff1-a8b5-ffb830c06e20; AMAZON; Listing status must be between 1 and 3 
-3963755e-e84f-487e-b09b-59540145dc22; EBAY; Owner email address must be a valid email address 
-6eed1183-8b91-4f4d-9e87-252d025b4c0d; AMAZON; Listing status must be between 1 and 3 
-c72b4d85-bf59-4915-b270-87d5269d1889; EBAY; Listing status must be between 1 and 3 
-c72b4d85-bf59-4915-b270-87d5269d1889; EBAY; Listing price must be positive 
-ef16a374-382c-4205-a03a-3d3f068e4e2f; AMAZON; Listing status must be between 1 and 3 
-983cd24a-cad6-4422-a044-175c5c0d84ea; AMAZON; Listing price must be positive 
-983cd24a-cad6-4422-a044-175c5c0d84ea; AMAZON; Listing status must be between 1 and 3 
-526cefbd-7cd0-4ef0-b64c-a0e1e56418cd; EBAY; Listing status must be between 1 and 3 
-eaa5d5eb-13a4-4cf0-a728-e183d0cf79fa; EBAY; Listing status must be between 1 and 3 
-1ddbe996-fe2f-4322-a17a-376c4745cbfc; AMAZON; Owner email address must be a valid email address 
-687ed7ea-18f3-4416-84bf-8159fdb9bec1; AMAZON; Listing status must be between 1 and 3 
-6a9cb31a-ab35-4059-aae6-bc372738b22c; AMAZON; Listing status must be between 1 and 3 
-097f5876-5901-4ccc-b433-cb57a4a9e1f1; EBAY; Owner email address must be a valid email address 
-b2104ec0-c5c4-466d-ae5f-7204b799edd0; AMAZON; Owner email address must be a valid email address 
-51aaafe7-df93-458e-b3be-39cda37b8948; EBAY; Owner email address must be a valid email address 
-51aaafe7-df93-458e-b3be-39cda37b8948; EBAY; Listing price must be positive 
-a28f39e0-d6fb-4997-b641-18ae44fe28b0; AMAZON; Listing status must be between 1 and 3 
-ad859428-ab23-4cb4-850b-1b285d526767; EBAY; Listing status must be between 1 and 3 
-7ddd15bd-48b1-4974-90fe-3c12d58ecd4e; EBAY; Listing status must be between 1 and 3 
-7ddd15bd-48b1-4974-90fe-3c12d58ecd4e; EBAY; Listing price must be positive 
-346e74b8-deec-4d0f-8fbc-292c57af9436; AMAZON; Owner email address must be a valid email address 
-95d20c97-e022-4865-af59-0dfd303742f1; EBAY; Owner email address must be a valid email address 
-727f76ba-f9a9-4ad9-9c72-1124182c3cda; EBAY; Listing status must be between 1 and 3 
-572b54df-da8f-456f-9d22-d5458c013d5c; EBAY; Owner email address must be a valid email address 
-09700eca-4a5b-4b2e-89af-8374ee2cb2fe; AMAZON; Listing status must be between 1 and 3 
-a453afdd-f705-4575-82cd-0d16c2ac5491; AMAZON; Upload time is required 
-c852dec6-7f93-4221-bd15-643d9492a258; EBAY; Listing status must be between 1 and 3 
-45d854ba-c28c-4a2b-9d59-12954efdc019; AMAZON; Upload time is required 
-679838b7-9774-40bf-b1d9-c00d0b2dfe50; EBAY; Listing status must be between 1 and 3 
-679838b7-9774-40bf-b1d9-c00d0b2dfe50; EBAY; Owner email address must be a valid email address 
-679838b7-9774-40bf-b1d9-c00d0b2dfe50; EBAY; Listing price must be positive 
-f1a4770b-fb37-41a1-a5a8-2d1f0d056ece; EBAY; Upload time is required 
-93dd1563-61d0-4814-bb58-d812eae29abe; EBAY; Listing status must be between 1 and 3 
-93dd1563-61d0-4814-bb58-d812eae29abe; EBAY; Owner email address must be a valid email address 
-1b326485-a090-499b-834c-bd28d06b9c29; AMAZON; Listing status must be between 1 and 3 
-c744e5bd-6a9c-4319-92b8-66b68daba1f8; EBAY; Listing status must be between 1 and 3 
-25a4504b-e035-4032-bed2-e8253f647c3a; AMAZON; Listing price must be positive 
-3118d787-744b-4257-97ca-a11ce2ac2f45; EBAY; Listing price must be positive 
-467485d8-c982-48d1-9113-3d7a103cc171; AMAZON; Owner email address must be a valid email address 
-f2b1d8b9-e113-46a1-9e69-c82cc451f125; EBAY; Owner email address must be a valid email address 
-261c88d3-570c-461b-a08b-f2c0d277c061; AMAZON; Listing status must be between 1 and 3 
-59fbb41b-72b6-4fb5-8755-07290d46f586; EBAY; Upload time is required 
-8d96061f-5d42-4ccb-9c77-524443b8383e; AMAZON; Upload time is required 
-fa34b38f-a161-48e8-bd77-958d658c69e1; EBAY; Listing status must be between 1 and 3 
-03802808-9736-416e-8f0f-37b0bb2fa6fc; EBAY; Listing status must be between 1 and 3 
-55e5d9f6-2d11-4cca-bc00-523465e43fae; EBAY; Listing status must be between 1 and 3 
-55e5d9f6-2d11-4cca-bc00-523465e43fae; EBAY; Upload time is required 
-e181e548-5b23-49a6-8e71-4f76e2058c4f; EBAY; Upload time is required 
-2fbbdc3b-45ba-4c2f-b921-f651ce46f165; EBAY; Upload time is required 
-2fbbdc3b-45ba-4c2f-b921-f651ce46f165; EBAY; Listing price must be positive 
-22503722-ff9a-4074-bb29-964afe393333; EBAY; Listing status must be between 1 and 3 
+1c34e6db-493b-4040-b7bf-1709e6017f9f; AMAZON; Listing status must be between 1 and 3 
+050ad550-9d5d-4ec1-a7bc-d8b432314b64; EBAY; Upload time is required 
+050ad550-9d5d-4ec1-a7bc-d8b432314b64; EBAY; Listing price must be positive 
+0abe17b7-c6de-4c1f-ac59-db150f5899af; EBAY; Listing price must be positive 
+35cc3657-5720-4e8c-bda8-d8a5d83e2872; AMAZON; Owner email address must be a valid email address 
+35cc3657-5720-4e8c-bda8-d8a5d83e2872; AMAZON; Listing status must be between 1 and 3 
+1ad83469-481b-4434-91cb-2ccdce90d56f; EBAY; Listing status must be between 1 and 3 
+4f2d21b1-61a2-44e6-876e-ea1f8811d6ab; EBAY; Listing status must be between 1 and 3 
+a87cacae-0cae-41d3-b382-70f4d29447b4; AMAZON; Owner email address must be a valid email address 
+a051c8c9-6ab6-4b5e-ac9c-59f3b0bb81de; EBAY; Listing price must be positive 
+a468a3a6-2a55-4e61-a328-200d13e736c8; AMAZON; Upload time is required 
+b130eee6-6464-49df-8534-d0b343d16865; AMAZON; Listing price must be positive 
+04e7b709-5b7c-40ce-b50e-7c4d491f00f3; EBAY; Upload time is required 
+75cb5858-ac0e-4dbe-a8b4-3db3a38124ac; AMAZON; Owner email address must be a valid email address 
+5b677c9c-8e06-4035-8999-497c5d016bb0; AMAZON; Listing price must be positive 
+5b677c9c-8e06-4035-8999-497c5d016bb0; AMAZON; Listing status must be between 1 and 3 
+746aad01-487c-4fa4-9cdb-5e112e54e1d6; AMAZON; Listing price must be positive 
+746aad01-487c-4fa4-9cdb-5e112e54e1d6; AMAZON; Listing status must be between 1 and 3 
+0a3c1cc6-cdad-4ddb-8e04-125ed6840fc1; AMAZON; Owner email address must be a valid email address 
+17f0df25-31d0-4b47-a6a4-08b2eec31722; AMAZON; Listing price must be positive 
+474439e2-2865-47fa-93fb-e7b5b9c029d3; EBAY; Listing status must be between 1 and 3 
+2bd73efe-ee22-4078-8029-629b5eb4d4c7; AMAZON; Upload time is required 
+0886576d-7b54-4000-b30e-f8196463fdea; AMAZON; Listing price must be positive 
+0886576d-7b54-4000-b30e-f8196463fdea; AMAZON; Upload time is required 
+c09b2af4-ae8b-4c58-8aaa-74192a29b296; AMAZON; Owner email address must be a valid email address 
+e66a63bd-8151-4dcb-9681-04e5dcf43461; EBAY; Upload time is required 
+c25831f7-a023-4ec5-a0cd-eb555dd215c9; AMAZON; Owner email address must be a valid email address 
+e0ef48a9-af06-4984-9341-a3ce2886ae8f; EBAY; Listing status must be between 1 and 3 
+fa0effd4-7032-422a-88c7-fd4a3154c0a7; EBAY; Upload time is required 
+86f526ce-c3c6-48df-bd5e-1bebf65b4703; EBAY; Listing status must be between 1 and 3 
+bbc2a8ea-4e0f-4033-8494-4a8e93c2ca71; EBAY; Listing status must be between 1 and 3 
+4f7a9004-7553-4025-8dd7-1168812047f1; AMAZON; Owner email address must be a valid email address 
+f25f8c52-7280-480b-8238-fab84a3125dc; EBAY; Listing status must be between 1 and 3 
+550ed21e-4dc4-462c-b9ea-460fbaed0b59; EBAY; Listing status must be between 1 and 3 
+f4035c4d-e1ca-4131-bc51-c2fbe31fda57; EBAY; Upload time is required 
+07d4f3bf-5213-4f41-b1a7-62840053024b; EBAY; Owner email address must be a valid email address 
+c7d096d3-44e2-4a7b-bf05-f6295a913be0; EBAY; Listing status must be between 1 and 3 
+b15bce5f-6465-4b23-9ef1-a9aeb6bd68cd; EBAY; Listing status must be between 1 and 3 
+b15bce5f-6465-4b23-9ef1-a9aeb6bd68cd; EBAY; Upload time is required 
+e72ed5d1-028e-4931-889e-f557183062b2; AMAZON; Listing price must be positive 
+c2bdb7a1-2a72-4ef8-9f07-92395d89b30a; EBAY; Listing status must be between 1 and 3 
+df8a6e41-7bb0-460f-9ff3-964bb1e5a163; EBAY; Listing price must be positive 
+a407bd64-df66-48f3-a19d-2d4b9915cb0a; AMAZON; Owner email address must be a valid email address 
+47967e16-d1da-47d5-ae58-e7af66efc510; AMAZON; Upload time is required 
+47967e16-d1da-47d5-ae58-e7af66efc510; AMAZON; Owner email address must be a valid email address 
+9f31535e-f450-4803-a9ac-9679713df9ad; AMAZON; Listing price must be positive 
+3cfb2d5c-ee9b-4c18-81c1-8c68ca24d6fc; EBAY; Listing status must be between 1 and 3 
+1459da35-83d1-432f-8c17-8ebef89ca883; EBAY; Listing status must be between 1 and 3 
+41f95fb4-cd84-4c86-acb2-6c09c1372ba5; EBAY; Listing status must be between 1 and 3 
+2f2511f1-58f2-409e-bdeb-415616d5e603; AMAZON; Listing price must be positive 
+a4954191-11f5-4420-babd-207cc3cd94bc; AMAZON; Upload time is required 
+c3f4f362-7de2-42c8-94ba-5ee3ad63a8e2; EBAY; Owner email address must be a valid email address 
+e30d7956-2584-46f5-b8d9-c86dcb1b3b37; AMAZON; Owner email address must be a valid email address 
+12bfc640-32f4-4553-b985-e88a20ded734; AMAZON; Owner email address must be a valid email address 
+b264867b-8f14-42af-bff8-2f6862d135e5; AMAZON; Owner email address must be a valid email address 
+34f889e7-8499-4996-84da-77597bf53d02; EBAY; Listing status must be between 1 and 3 
+29c6bdc0-923f-4375-96b7-b68326976f5c; EBAY; Owner email address must be a valid email address 
+29c6bdc0-923f-4375-96b7-b68326976f5c; EBAY; Listing status must be between 1 and 3 
+f215d3d3-9125-47db-b677-9a16ae168010; AMAZON; Listing price must be positive 
+8a2c41f8-8907-492c-9443-78f549dcfd74; AMAZON; Upload time is required 
+27964af4-f729-4fe0-984e-0e83956a64a4; AMAZON; Upload time is required 
+fa216034-5dd4-465c-904a-f89b8225894c; EBAY; Owner email address must be a valid email address 
+267a2d2c-23c8-45ea-b731-9d93e1a343eb; AMAZON; Listing status must be between 1 and 3 
+26fe6d32-ed9f-404d-aa24-c7924f6fffa2; AMAZON; Owner email address must be a valid email address 
+37aaeec6-b83e-4728-b93e-dece3fc5e5b9; AMAZON; Listing status must be between 1 and 3 
+d83538bd-59bf-470e-aa58-a08bd5d4dab6; AMAZON; Owner email address must be a valid email address 
+d255648e-3785-4f0a-a17f-6ff70c2057c5; EBAY; Listing price must be positive 
+8128a4f0-f891-4c74-a440-1c2aa4f9ed84; EBAY; Listing status must be between 1 and 3 
+4ba56710-802b-4451-b143-018636882c9b; EBAY; Owner email address must be a valid email address 
+00fb38f7-8d26-4b9d-95de-1c12758e439a; AMAZON; Upload time is required 
+5025f293-2afa-4633-a5cd-a339df368604; AMAZON; Listing status must be between 1 and 3 
+f9c41c7b-e598-473d-a0ca-488f4a722684; EBAY; Listing status must be between 1 and 3 
+67d594c9-82f4-4556-8a64-d71a49397e5a; EBAY; Upload time is required 
+d66e2321-c2da-4ca3-b26e-a72dfdd17277; AMAZON; Listing status must be between 1 and 3 
+39901012-002a-4548-9be7-e127739f1963; EBAY; Listing status must be between 1 and 3 
+217d562b-5bcc-4b49-a69a-e97dca619cb4; EBAY; Listing status must be between 1 and 3 
+1fdd0397-9010-488e-a7c2-26d956ee86a8; EBAY; Upload time is required 
+e553fa77-2470-4aff-a6f8-6e7cab399359; AMAZON; Upload time is required 
+fb9badb0-7289-460c-8458-91ec218d688d; EBAY; Listing status must be between 1 and 3 
+16b9a077-301e-494e-bbde-c4ba78c8721d; AMAZON; Listing status must be between 1 and 3 
+b38bc9c9-3ba5-4d96-8075-de050ac3bc75; AMAZON; Owner email address must be a valid email address 
+c7a5ae30-30ad-4c3a-a22a-df3d459b39b8; AMAZON; Upload time is required 
+60cfb69e-89cf-4896-9f8a-83b340306445; AMAZON; Upload time is required 
+ebaf7376-1604-4276-a78e-f8daab76f575; EBAY; Listing price must be positive 
+539aed52-5b2e-465c-9ca2-c9fb9804087b; EBAY; Upload time is required 
+539aed52-5b2e-465c-9ca2-c9fb9804087b; EBAY; Owner email address must be a valid email address 
+539aed52-5b2e-465c-9ca2-c9fb9804087b; EBAY; Listing status must be between 1 and 3 
+1d9ce87f-c8c3-45ff-8694-d637e8bbfc93; EBAY; Owner email address must be a valid email address 
+d6f9c16e-92d5-4a14-966a-27edaceebdc3; EBAY; Owner email address must be a valid email address 
+d6f9c16e-92d5-4a14-966a-27edaceebdc3; EBAY; Listing status must be between 1 and 3 
+3290bd0a-6c10-421a-b1e4-f8925be094e6; EBAY; Owner email address must be a valid email address 
+3290bd0a-6c10-421a-b1e4-f8925be094e6; EBAY; Listing status must be between 1 and 3 
+15cf483e-6515-4589-b63a-2c21b2ed5419; EBAY; Owner email address must be a valid email address 
+3f3a1275-346c-4e3d-9eb6-3d3cc100cc7d; EBAY; Owner email address must be a valid email address 
+f0811f69-256e-4407-9682-a0703d020a05; EBAY; Upload time is required 
+8123560b-34cf-446b-828e-9501c5bf29d9; AMAZON; Listing status must be between 1 and 3 
+f5bf69e2-85d5-4c94-b730-a77876d57a8f; EBAY; Owner email address must be a valid email address 
+f5bf69e2-85d5-4c94-b730-a77876d57a8f; EBAY; Listing status must be between 1 and 3 
+626c4784-c02f-470f-b367-d727f1fb4cde; AMAZON; Listing status must be between 1 and 3 
+28ed2fd8-d8c2-44ba-aa8f-6fa6c3f7b90f; AMAZON; Listing status must be between 1 and 3 
+ff1f3988-cf9c-4ff1-b7e1-870e602add24; EBAY; Upload time is required 
+44bbffd0-394b-4193-8167-f92976636c59; AMAZON; Listing price must be positive 
+7b4ce588-53d4-4bff-9523-5d1e96380a28; AMAZON; Listing status must be between 1 and 3 
+82f9d4ce-0106-4452-9ee5-eb61d1b6fd2e; EBAY; Listing price must be positive 
+82f9d4ce-0106-4452-9ee5-eb61d1b6fd2e; EBAY; Listing status must be between 1 and 3 
+d3d30d87-c7af-42ed-9da1-4f25d47d6e14; AMAZON; Listing status must be between 1 and 3 
+a5f4f1a3-94d3-45fc-881e-519eef819120; AMAZON; Upload time is required 
+579cba7a-af0e-45a1-a492-413bfdc326a7; EBAY; Listing status must be between 1 and 3 
+d510f9b0-205d-490f-806b-221e35e03878; EBAY; Listing status must be between 1 and 3 
+bb4a0694-543c-4ba2-a797-a12cfd0323d5; AMAZON; Listing status must be between 1 and 3 
+e24256ea-1471-4735-94f5-3210af6cf4d5; AMAZON; Listing status must be between 1 and 3 
+4791faf6-3946-4555-ba18-4210eaab8ced; AMAZON; Listing price must be positive 
+4791faf6-3946-4555-ba18-4210eaab8ced; AMAZON; Listing status must be between 1 and 3 
+a686f31e-c837-4b5b-a3e8-3c8a55e7a0bc; AMAZON; Owner email address must be a valid email address 
+c6013b44-2c47-4a55-b4c6-adcaa2634e9a; AMAZON; Owner email address must be a valid email address 
+06f40e2c-e1e2-48e5-b190-90af9afbfa7f; EBAY; Listing price must be positive 
+06f40e2c-e1e2-48e5-b190-90af9afbfa7f; EBAY; Listing status must be between 1 and 3 
+6f410d0b-0355-470b-a116-136a52a480f8; EBAY; Listing status must be between 1 and 3 
+d606e503-95ce-45a2-9489-d644e3292699; AMAZON; Owner email address must be a valid email address 
+c4bbc777-23e5-45d4-a227-015f7a962ce8; AMAZON; Listing status must be between 1 and 3 
+99ced780-a002-4775-950d-5d48c181176f; AMAZON; Listing status must be between 1 and 3 
+62e42d9b-5413-47c8-aafd-d733782da98a; AMAZON; Owner email address must be a valid email address 
+a4b33b0e-7720-4626-8efd-24b04c684d7a; AMAZON; Owner email address must be a valid email address 
+b829b8fb-8228-4355-bde7-8f069decc180; AMAZON; Listing status must be between 1 and 3 
+36bc12a2-60b8-4a85-9c42-103325585a1f; EBAY; Listing status must be between 1 and 3 
+36bc12a2-60b8-4a85-9c42-103325585a1f; EBAY; Listing price must be positive 
+911f9520-2091-4cdd-a166-72047bfe040c; EBAY; Listing status must be between 1 and 3 
+36899d8c-4565-4608-89cf-45252b87664c; EBAY; Listing status must be between 1 and 3 
+d6f1aa6b-c928-4691-84b7-4ae4aaf40b73; EBAY; Listing status must be between 1 and 3 
+16389cda-9fb8-4eaf-825b-200335fb162c; AMAZON; Listing price must be positive 
+6adfc944-c0bd-4c0f-9263-6733953e7ccb; AMAZON; Listing status must be between 1 and 3 
+49f761b7-3d24-4882-8abf-90b9887ac0c2; AMAZON; Owner email address must be a valid email address 
+793a52de-929f-4577-bc51-0d90611e0163; AMAZON; Owner email address must be a valid email address 
+879f47e0-fc96-4d32-b6c9-d4fcfde34400; AMAZON; Owner email address must be a valid email address 
+879f47e0-fc96-4d32-b6c9-d4fcfde34400; AMAZON; Listing status must be between 1 and 3 
+bdc97d73-acc1-49d2-b356-d5ab044ae02c; EBAY; Owner email address must be a valid email address 
+1d882dc4-b658-41ae-bca2-7c7b4c525e87; AMAZON; Upload time is required 
+1d882dc4-b658-41ae-bca2-7c7b4c525e87; AMAZON; Listing status must be between 1 and 3 
+5e5c10fd-879a-48ab-88cb-aa1a6f0def8c; AMAZON; Listing status must be between 1 and 3 
+571ed45a-f4d2-4745-ae7b-2bc7a53a744b; EBAY; Owner email address must be a valid email address 
+571ed45a-f4d2-4745-ae7b-2bc7a53a744b; EBAY; Listing price must be positive 
+22c755f4-b418-4d89-90c6-8c4830cd3be6; AMAZON; Listing status must be between 1 and 3 
+248a48bf-c2c3-49e6-aa32-eae454c8d259; EBAY; Owner email address must be a valid email address 
+11119bb3-174f-4e5d-9a63-82fa47cc1770; EBAY; Listing status must be between 1 and 3 
+08b56bc2-b840-4cce-9f7f-196ac86950c0; AMAZON; Owner email address must be a valid email address 
+db7bda05-6a5a-44ab-9f68-79c313481f8c; EBAY; Listing status must be between 1 and 3 
+81e03210-e5f7-489c-89e8-e5abbc7a866b; EBAY; Listing status must be between 1 and 3 
+de61aa52-7ade-4403-8e9a-14ce74b6954d; AMAZON; Listing status must be between 1 and 3 
+6b871880-3e37-4dd1-98c3-cfe31cc82aa4; AMAZON; Listing status must be between 1 and 3 
+f6d3f7a3-e56c-4ea6-9ed8-75009164fb71; AMAZON; Owner email address must be a valid email address 
+0cfca4c1-f878-4129-a9ae-a6099046d8e0; EBAY; Owner email address must be a valid email address 
+26efd422-cefb-4854-b56e-9e7ed3a899ff; AMAZON; Listing status must be between 1 and 3 
+b077d6c2-d350-41a7-85cb-70ac34d42488; AMAZON; Listing status must be between 1 and 3 
+06008cce-db23-4380-acdd-22f1f1a88046; EBAY; Upload time is required 
+02f1e58d-0a76-4969-95b0-6fe878a631cb; AMAZON; Listing status must be between 1 and 3 
+e0e8dabe-037e-4be9-a035-f216339920c9; AMAZON; Owner email address must be a valid email address 
+d788091c-6aab-4ad4-af75-71c22d9658cd; EBAY; Listing status must be between 1 and 3 
+e6999971-52f3-4559-a44e-d7e8dbac67e3; EBAY; Listing price must be positive 
+807492b5-1a0a-4947-9efb-1bc768f5a93a; AMAZON; Listing status must be between 1 and 3 
+807492b5-1a0a-4947-9efb-1bc768f5a93a; AMAZON; Upload time is required 
+807492b5-1a0a-4947-9efb-1bc768f5a93a; AMAZON; Owner email address must be a valid email address 
+03cb9857-690c-402c-ad00-023c8199cbf1; EBAY; Listing status must be between 1 and 3 
+cdc5b8e5-f652-4549-96e7-39564274250f; EBAY; Listing status must be between 1 and 3 
+2ee87a27-138d-4b62-a756-01fb5f673e9d; AMAZON; Listing status must be between 1 and 3 
+597cb740-882a-4589-9cb6-ad6e240edac0; AMAZON; Upload time is required 
+022f788c-e08a-4cef-b1ea-62be737d150e; EBAY; Owner email address must be a valid email address 
+3f8dbcd3-1890-4b81-948c-f6fc2f9c3632; EBAY; Upload time is required 
+4d74d569-7b3c-453a-bad9-de67b87fa196; AMAZON; Owner email address must be a valid email address 
+96f7d722-c261-4364-8fef-89474ae5f60f; EBAY; Listing status must be between 1 and 3 
+94223aaa-9c81-4a4e-9e6f-83c039b4b66c; EBAY; Listing price must be positive 
+69a1e139-ac74-4ac9-8dbd-5db0c81db5fb; AMAZON; Owner email address must be a valid email address 
+d1cd7eb5-c387-4fad-8006-08b1f684b927; EBAY; Listing status must be between 1 and 3 
+ed40037b-01d9-4747-a3db-911b3df8b8b5; AMAZON; Owner email address must be a valid email address 
+8f8f93fe-74ea-4df3-a8fb-1ad603e6ba7b; AMAZON; Listing status must be between 1 and 3 
+52370c05-3468-4723-b194-e30642f7e6b0; AMAZON; Listing status must be between 1 and 3 
+52370c05-3468-4723-b194-e30642f7e6b0; AMAZON; Upload time is required 
+3d77d01a-f020-42b0-9334-59f381b2b2a2; EBAY; Listing price must be positive 
+6aa7b73a-7559-4bd7-99c1-b416cbb2fc65; EBAY; Owner email address must be a valid email address 
+6aa7b73a-7559-4bd7-99c1-b416cbb2fc65; EBAY; Listing status must be between 1 and 3 
+a3544f09-5409-4689-b45b-ae6eb18350de; EBAY; Listing status must be between 1 and 3 
+a1ef68e3-6f5c-49b4-a64e-dbcb8ece815b; AMAZON; Owner email address must be a valid email address 
+6597cd85-2d68-403e-8bea-c6d7e2442bef; EBAY; Listing status must be between 1 and 3 
+8989a04f-0705-4c41-a8e6-3b6ec2a14606; AMAZON; Listing status must be between 1 and 3 
+39056826-4e1b-4b08-b49f-c1a578c878e6; AMAZON; Listing status must be between 1 and 3 
+63d5cd07-d36c-4289-a26f-d64cc2c28cfc; EBAY; Listing status must be between 1 and 3 
+c2a8d8cd-9557-4802-bf28-3264534f25be; EBAY; Listing status must be between 1 and 3 
+32b1c293-ec94-4a90-b984-ca84ced2b006; AMAZON; Owner email address must be a valid email address 
+5690a5ed-d2ff-4b1a-a8c4-6db5f8ceed57; EBAY; Owner email address must be a valid email address 
+9b293c9f-e7c2-4936-bd57-3c24f7b00811; EBAY; Owner email address must be a valid email address 
+9b293c9f-e7c2-4936-bd57-3c24f7b00811; EBAY; Listing status must be between 1 and 3 
+e8bebcb4-1176-4ae6-896e-8cb50a737bbb; AMAZON; Upload time is required 
+78c91285-d7a4-4ca4-b446-f674f21196fc; AMAZON; Owner email address must be a valid email address 
+e140bdf0-a374-4c39-bc6b-d19a0b44a483; AMAZON; Owner email address must be a valid email address 
+cdb37b78-2cf8-4194-bfc6-78ca82d22794; EBAY; Upload time is required 
+f215bb51-bfbd-4e6b-aee9-752694d41a8c; AMAZON; Owner email address must be a valid email address 
+cc0d8147-dd41-4342-a8b7-effe0570400f; AMAZON; Listing price must be positive 
+cc0d8147-dd41-4342-a8b7-effe0570400f; AMAZON; Owner email address must be a valid email address 
+cc0d8147-dd41-4342-a8b7-effe0570400f; AMAZON; Listing status must be between 1 and 3 
+b4aa08c7-7502-4a57-87ca-e5eb483647c7; AMAZON; Listing status must be between 1 and 3 
+fd18ef3f-9ccd-4d78-bc09-27cca69b630f; AMAZON; Upload time is required 
+9ccf8ec5-d727-4031-a10a-f92e7dba51cf; EBAY; Listing status must be between 1 and 3 
+e72859cf-beec-4a26-a083-0eaa99f5b822; AMAZON; Listing status must be between 1 and 3 
+64434e10-cf26-469f-a8d4-1fda0892844a; AMAZON; Owner email address must be a valid email address 
+d6f8a8a6-9576-4915-83f2-67b20a1efa3b; AMAZON; Listing status must be between 1 and 3 
+6cb83422-c950-4d14-9657-94176318b2e9; AMAZON; Owner email address must be a valid email address 
+6cb83422-c950-4d14-9657-94176318b2e9; AMAZON; Upload time is required 
+787f2755-25d8-40a9-8940-58800d32a9dc; AMAZON; Owner email address must be a valid email address 
+b19e38f5-499a-469e-a1b1-f46ff30ea5e0; EBAY; Owner email address must be a valid email address 
+373d9be5-91d6-4192-a599-16cfb8e79912; AMAZON; Upload time is required 
+373d9be5-91d6-4192-a599-16cfb8e79912; AMAZON; Listing price must be positive 
+e27656de-b236-425a-9073-ba18761eec86; EBAY; Listing status must be between 1 and 3 
+5ee23a4b-67d2-470f-b98a-b4dca852517c; AMAZON; Listing status must be between 1 and 3 
+c9770866-5de1-4981-9b68-b93ea8748006; EBAY; Listing status must be between 1 and 3 
+a0d49913-6175-40dc-b79e-58a9a0c6f59a; EBAY; Upload time is required 
+a0d49913-6175-40dc-b79e-58a9a0c6f59a; EBAY; Listing status must be between 1 and 3 
+a0d49913-6175-40dc-b79e-58a9a0c6f59a; EBAY; Owner email address must be a valid email address 
+abf3233f-b96a-4405-8a34-c52601a759c5; AMAZON; Listing status must be between 1 and 3 
+cfb03786-23c5-4a9a-93ae-a8dd6d7a019b; EBAY; Owner email address must be a valid email address 
+cfb03786-23c5-4a9a-93ae-a8dd6d7a019b; EBAY; Upload time is required 
+7bb23121-c089-4671-984a-ecdacbf295c6; AMAZON; Listing status must be between 1 and 3 
+7344ea47-87a5-4f31-965e-cd0c9edf9e1e; AMAZON; Listing status must be between 1 and 3 
+0652235a-a312-4981-ab19-87e4cb76f418; EBAY; Listing status must be between 1 and 3 
+e1e0692a-a5d3-4526-8062-137fb755d509; EBAY; Listing status must be between 1 and 3 
+f39e29c6-d9b0-4416-b4bd-b24cd33a7865; AMAZON; Owner email address must be a valid email address 
+a187dedb-11b0-4127-b60c-8d07b631128a; EBAY; Upload time is required 
+89a570bc-734e-4655-b654-4f0ece3ddbe7; EBAY; Listing status must be between 1 and 3 
+89a570bc-734e-4655-b654-4f0ece3ddbe7; EBAY; Owner email address must be a valid email address 
+9f80e494-d593-4df8-b36e-dc397a3fc10b; EBAY; Listing status must be between 1 and 3 
+a7559e01-617f-406d-b9eb-69cf16d20904; EBAY; Listing status must be between 1 and 3 
+87ace80f-b8ba-4812-9f2e-da182da25f09; EBAY; Owner email address must be a valid email address 
+5cfb6a93-cb74-4864-b50d-5f9c9ecda13a; EBAY; Upload time is required 
+df705db2-5489-4373-82b6-90eb0d5c22f4; EBAY; Listing status must be between 1 and 3 
+df705db2-5489-4373-82b6-90eb0d5c22f4; EBAY; Owner email address must be a valid email address 
+1f71b42d-f0c9-4205-8794-b6830e431750; AMAZON; Listing status must be between 1 and 3 
+d20499d2-e474-488f-9876-25f4cdc81e30; EBAY; Owner email address must be a valid email address 
+d20499d2-e474-488f-9876-25f4cdc81e30; EBAY; Listing status must be between 1 and 3 
+7ed5937a-1b65-4431-a52f-89dc57223902; EBAY; Listing status must be between 1 and 3 
+7ed5937a-1b65-4431-a52f-89dc57223902; EBAY; Upload time is required 
+f84e4e15-71e3-4d45-a3bb-33f59a7d488b; AMAZON; Owner email address must be a valid email address 
+55a3826d-a515-47af-8781-ac53f4ffface; AMAZON; Owner email address must be a valid email address 
+55a3826d-a515-47af-8781-ac53f4ffface; AMAZON; Listing status must be between 1 and 3 
+3b181497-0cc8-4178-b1c0-b58336312cc3; AMAZON; Upload time is required 
+3b181497-0cc8-4178-b1c0-b58336312cc3; AMAZON; Owner email address must be a valid email address 
+7ec12e33-0763-4c4a-97cd-e8a084144a8c; AMAZON; Listing price must be positive 
+e2851044-dfb9-495b-870a-a2ce641c54b3; AMAZON; Upload time is required 
+161de641-0df7-4345-9177-7188beaf731f; EBAY; Upload time is required 
+1f7e48e4-736a-483f-9abe-4738f4b4b5d7; EBAY; Owner email address must be a valid email address 
+9c4442b8-3ba9-4af5-9feb-6694d8fb66c2; AMAZON; Listing status must be between 1 and 3 
+47f2bc17-6f9d-4847-9396-cdac568ae901; AMAZON; Listing status must be between 1 and 3 
+a6b26dd4-ef69-4167-aaca-7c6d13f101ba; EBAY; Upload time is required 
+a7194901-51ff-402d-ae01-b0123dba391c; EBAY; Listing status must be between 1 and 3 
+ad52bcdd-be1a-4785-a31c-1a392b4830f2; AMAZON; Listing status must be between 1 and 3 
+0f79bffb-6b38-4f8c-9405-4c65c90c78a3; AMAZON; Listing price must be positive 
+0f79bffb-6b38-4f8c-9405-4c65c90c78a3; AMAZON; Owner email address must be a valid email address 
+651c0ab2-0a8f-44b0-b1da-f052fd760008; EBAY; Listing status must be between 1 and 3 
+e41895b4-ad9c-4a0d-8cd1-59122739a806; EBAY; Listing status must be between 1 and 3 
+e41895b4-ad9c-4a0d-8cd1-59122739a806; EBAY; Upload time is required 
+7ab99912-0ff8-4766-8ba8-aaa63735626e; EBAY; Upload time is required 
+db70bf0e-f3ad-4e5d-a960-e23a3de7c21e; EBAY; Listing status must be between 1 and 3 
+75ce9217-b4ba-40e8-bf8a-12e73a4be0f0; AMAZON; Upload time is required 
+35f69ae8-b933-4ba2-b196-2d7ead21905c; EBAY; Listing status must be between 1 and 3 
+d6b5de37-621f-4f6d-a62f-37c59a62ec36; AMAZON; Listing status must be between 1 and 3 
+2041e875-2551-486b-8113-cea30cd2a73d; AMAZON; Listing status must be between 1 and 3 
+ca2b4aa3-3c12-41cc-9dd9-c46770880be5; AMAZON; Owner email address must be a valid email address 
+fae97a6d-9fb1-4dbc-bf29-2bb0ba134082; AMAZON; Owner email address must be a valid email address 
+3470bba0-becd-4496-9369-05c264facbf0; EBAY; Listing status must be between 1 and 3 
+3470bba0-becd-4496-9369-05c264facbf0; EBAY; Owner email address must be a valid email address 
+a5609e28-bc4e-4adc-965f-49aec1a90815; EBAY; Listing status must be between 1 and 3 
+dff8f840-0e6c-495a-adf7-ef9c629e88f5; EBAY; Owner email address must be a valid email address 
+7105ea75-b945-4d23-89af-54c989562b8f; EBAY; Listing status must be between 1 and 3 
+7105ea75-b945-4d23-89af-54c989562b8f; EBAY; Owner email address must be a valid email address 
+f5446efd-6e78-4b19-857d-1c679aab52ab; AMAZON; Listing status must be between 1 and 3 
+f5446efd-6e78-4b19-857d-1c679aab52ab; AMAZON; Upload time is required 
+1f1de31f-6b62-4185-a144-6500ecc8d312; EBAY; Listing status must be between 1 and 3 
+ca1b3f5a-1ff7-4e4c-8697-9de48ed03608; AMAZON; Listing price must be positive 
+708cba75-5b05-478b-851b-40cc5a51246d; AMAZON; Listing status must be between 1 and 3 
+dbcdd849-a72c-4c77-bcd0-a936a379b13a; AMAZON; Owner email address must be a valid email address 
+21fcfc96-80d7-4c5c-9958-bf26a70fbc3f; AMAZON; Owner email address must be a valid email address 
+3b61b844-6cee-45e1-9fdf-1187f08bf5f2; EBAY; Owner email address must be a valid email address 
+28b0ee0b-7383-43f2-b8d3-2b91e4bdd58a; EBAY; Upload time is required 
+795ff7a1-8521-4ad5-8429-e887a512a74a; EBAY; Listing status must be between 1 and 3 
+c1a9ecf1-5f00-402f-81f4-6a95daf0a32b; EBAY; Listing status must be between 1 and 3 
+35eb29a6-9281-4cd0-80c1-6644357f7f60; AMAZON; Listing status must be between 1 and 3 
+81b5f026-93fe-4009-813a-499e7439b1ad; EBAY; Owner email address must be a valid email address 
+ca8619d1-7101-4ac8-88bd-8cb4fdbe0323; EBAY; Listing status must be between 1 and 3 
+e7c77f3a-7f3d-4e91-9e27-fd0faca9e427; AMAZON; Listing price must be positive 
+e7c77f3a-7f3d-4e91-9e27-fd0faca9e427; AMAZON; Listing status must be between 1 and 3 
+a2a9d3ca-fb65-4bff-b4d7-b2547474049f; AMAZON; Owner email address must be a valid email address 
+edad8f97-6c2a-4e80-b16e-13028baa5ed3; EBAY; Listing status must be between 1 and 3 
+3901c3e2-5083-4257-bfe0-b5e2a63907e1; EBAY; Listing status must be between 1 and 3 
+41702448-2d19-4200-937e-e46972ccfbd8; EBAY; Upload time is required 
+d0293d08-b096-456d-b7bb-648a14a29fb8; EBAY; Listing status must be between 1 and 3 
+8d773963-3edf-4644-970d-79d7fc1327ab; EBAY; Listing price must be positive 
+8ac928dc-01ca-4630-a860-c17ee0fc17b9; EBAY; Listing price must be positive 
+88c63a53-cdef-46de-a381-129d0261e7ab; AMAZON; Listing status must be between 1 and 3 
+82c75936-2cbb-46f1-808c-cab33de10d1c; EBAY; Listing status must be between 1 and 3 
+a3ec3a6d-36f3-4113-820c-4aba7720c97d; EBAY; Listing status must be between 1 and 3 
+d2fbfdc2-bc46-400a-bef5-c8c736a3f8d2; EBAY; Listing status must be between 1 and 3 
+d826e6df-4488-4215-a176-69d25f5174f7; EBAY; Owner email address must be a valid email address 
+d826e6df-4488-4215-a176-69d25f5174f7; EBAY; Listing status must be between 1 and 3 
+05f42e33-f8ed-4e07-b944-e2630f869f22; AMAZON; Owner email address must be a valid email address 
+05f42e33-f8ed-4e07-b944-e2630f869f22; AMAZON; Listing status must be between 1 and 3 
+6924a581-9205-4154-948e-9ef5a0423598; AMAZON; Listing price must be positive 
+fd9b9b77-0e4b-49a8-816e-04ea26daa8e4; AMAZON; Listing status must be between 1 and 3 
+9c57b7ad-9a70-4fdd-bfc2-0de3c98e669c; EBAY; Listing price must be positive 
+f7695a3a-549b-4814-ba3d-b47fd76b7503; EBAY; Listing status must be between 1 and 3 
+d0e6a645-ef0a-422e-80c4-677f77103be0; EBAY; Listing price must be positive 
+6ef26f6c-8126-4a86-9e11-756f4418f042; AMAZON; Listing status must be between 1 and 3 
+54faa271-469b-47b4-8f7c-441fbf30479c; EBAY; Upload time is required 
+b7a6def8-f668-4956-aaa1-ca5b65868c79; AMAZON; Upload time is required 
+3c6a72d2-458d-4a73-85df-981a8ef2473a; EBAY; Upload time is required 
+3b5619a9-442f-4587-9958-a9de36e2b266; EBAY; Owner email address must be a valid email address 
+3b5619a9-442f-4587-9958-a9de36e2b266; EBAY; Listing status must be between 1 and 3 
+11bc9e8d-284d-4895-b77f-7234b31b442b; EBAY; Owner email address must be a valid email address 
+03bdf5b0-3015-4c3f-94ab-11d3aa4bf81d; EBAY; Owner email address must be a valid email address 
+111b2026-09e5-45b2-9de7-db62609e7ed7; AMAZON; Owner email address must be a valid email address 
+642d3036-0a11-42a4-9972-0fb74a9d246b; EBAY; Listing status must be between 1 and 3 
+e7d85bae-6719-487f-9e12-2c65fe5ad025; AMAZON; Listing status must be between 1 and 3 
+49225195-b572-4cc8-baee-02ded01e3961; EBAY; Listing status must be between 1 and 3 
+d1f5e4be-7115-4c0f-a50d-1f24f653f5dd; EBAY; Owner email address must be a valid email address 
+71cc95dd-fd9d-4247-82a4-85fa91b63941; EBAY; Listing status must be between 1 and 3 
+9ae780a8-208e-4d4a-925e-41f886b555fb; EBAY; Upload time is required 
+9ae780a8-208e-4d4a-925e-41f886b555fb; EBAY; Listing price must be positive 
+146cf7e4-6bd2-423e-8878-d546d51cce8e; EBAY; Listing price must be positive 
+ce0591f1-607e-4703-87a4-b3a6133f3620; EBAY; Listing price must be positive 
+ce0591f1-607e-4703-87a4-b3a6133f3620; EBAY; Upload time is required 
+78bb359f-8cc1-4c83-ab81-c3377fd5801d; EBAY; Owner email address must be a valid email address 
+78bb359f-8cc1-4c83-ab81-c3377fd5801d; EBAY; Listing price must be positive 
+4d1cbf1f-6ae1-430d-a571-c860f4e9b9ab; EBAY; Listing status must be between 1 and 3 
+c5b03de8-da5e-4885-942d-5b3c0c37e912; EBAY; Upload time is required 
+f102cc29-f5c1-4e7a-8831-16c2b1e5f3d7; AMAZON; Owner email address must be a valid email address 
+dd3ecf81-48b1-42fc-9513-f9e1e7a43c35; EBAY; Listing status must be between 1 and 3 
+dd3ecf81-48b1-42fc-9513-f9e1e7a43c35; EBAY; Listing price must be positive 
+13f8ec4d-1631-48fd-8f1b-d2f2011c8cd8; EBAY; Upload time is required 
+b3854436-99f0-45fa-a513-31dc55958c3f; EBAY; Listing price must be positive 
+719f56bb-a7fc-4f0c-806e-dd59cbdf12e0; EBAY; Listing status must be between 1 and 3 
+f73a3cc1-76d7-405d-96ac-02d73228f244; AMAZON; Owner email address must be a valid email address 
+3636f6e4-0719-41cb-b44d-eba929289c87; EBAY; Upload time is required 
+e03f52c0-e481-4062-8da2-2db8dc308e4a; EBAY; Listing status must be between 1 and 3 
+e03f52c0-e481-4062-8da2-2db8dc308e4a; EBAY; Owner email address must be a valid email address 
+e03f52c0-e481-4062-8da2-2db8dc308e4a; EBAY; Upload time is required 
+bbbf8b3a-c536-4370-88b1-e539ab45f66d; AMAZON; Listing status must be between 1 and 3 
+2e655b04-5e62-48d5-a96e-73c30652eabd; EBAY; Upload time is required 
+d30770d4-ffeb-4f98-b3c4-d8bc36997dbd; AMAZON; Listing status must be between 1 and 3 
+6ff43119-af8a-4686-bc35-cb825c17eeb8; AMAZON; Owner email address must be a valid email address 
+aa26fa58-99c8-4d10-933d-3767c150fe20; EBAY; Listing status must be between 1 and 3 
+83ca1bac-a89d-461d-84ad-3aa3bf622215; AMAZON; Owner email address must be a valid email address 
+83ca1bac-a89d-461d-84ad-3aa3bf622215; AMAZON; Upload time is required 
+e9511730-5fa0-4641-a16a-d176953b17ff; EBAY; Upload time is required 
+21a18f9a-8068-47a2-8377-9cb041e70e8a; AMAZON; Owner email address must be a valid email address 
+21a18f9a-8068-47a2-8377-9cb041e70e8a; AMAZON; Listing status must be between 1 and 3 
+933f265a-d81f-4957-b012-01f851972537; EBAY; Owner email address must be a valid email address 
+4c5e6e31-4c20-489e-b7a8-a7d32b618f73; AMAZON; Listing status must be between 1 and 3 
+5e1a0a86-8013-452d-b0b6-216a96eecd71; EBAY; Upload time is required 
+faa7e13c-6a30-474d-9bea-f2ce69aa19ed; AMAZON; Listing status must be between 1 and 3 
+93adec30-2a17-49f4-8c03-655bcbd54035; EBAY; Upload time is required 
+6c670cda-deb4-4827-a1a7-7a6f83562d6d; AMAZON; Listing price must be positive 
+99979119-4994-4a56-a455-6154e7f17ea5; EBAY; Listing price must be positive 
+23fd8022-fb9e-4a6b-b777-dd00945ca3e4; EBAY; Listing status must be between 1 and 3 
+01b843e9-4f78-427c-895f-e3f5221104dd; EBAY; Listing price must be positive 
+01b843e9-4f78-427c-895f-e3f5221104dd; EBAY; Upload time is required 
+3979ccb0-ef62-4f78-b0ed-4831dfdf00d3; AMAZON; Upload time is required 
+93133068-8db7-48c5-80fa-09c0c847916e; EBAY; Listing price must be positive 
+079d5d81-c04a-49a0-b7ea-4f7456a10fc9; EBAY; Listing status must be between 1 and 3 
+88d05db6-50c5-4de8-8290-b75f02d2b9fe; AMAZON; Listing status must be between 1 and 3 
+88d05db6-50c5-4de8-8290-b75f02d2b9fe; AMAZON; Owner email address must be a valid email address 
+f83db03e-08d5-46a3-a781-90ac315670ea; EBAY; Listing price must be positive 
+fe18650b-1c43-4070-b7d3-12433b8e62da; EBAY; Listing price must be positive 
+fe18650b-1c43-4070-b7d3-12433b8e62da; EBAY; Owner email address must be a valid email address 
+fe18650b-1c43-4070-b7d3-12433b8e62da; EBAY; Listing status must be between 1 and 3 
+08c3ef2c-edc2-4e12-87fe-ef5a1fef6803; EBAY; Owner email address must be a valid email address 
+5908cd54-b4be-49f0-881e-0838fa2d5f92; EBAY; Owner email address must be a valid email address 
+b992bbfc-ee67-4d01-a5cd-dd18b327d851; EBAY; Owner email address must be a valid email address 
+912d789c-4262-4a04-9135-5f98e29b095f; EBAY; Owner email address must be a valid email address 
+912d789c-4262-4a04-9135-5f98e29b095f; EBAY; Listing status must be between 1 and 3 
+f347aaab-f542-458e-82cb-b8a0c23ee661; AMAZON; Listing status must be between 1 and 3 
+40f29395-af49-4070-9354-121141601622; EBAY; Listing status must be between 1 and 3 
+40f29395-af49-4070-9354-121141601622; EBAY; Upload time is required 
+0dd68f01-e130-45df-ab57-923b26d12a0c; AMAZON; Owner email address must be a valid email address 
+edf756a0-b3cb-40d1-83a8-cd738c89df51; AMAZON; Owner email address must be a valid email address 
+d4e82b7e-6b4b-4fdc-a092-cd5c23417100; EBAY; Listing status must be between 1 and 3 
+1414bfd2-3f99-4850-bd1e-1181e1d59047; EBAY; Listing status must be between 1 and 3 
+2e341a21-75b6-48d3-a8f3-8c8ff5d6e666; AMAZON; Owner email address must be a valid email address 
+57524d29-944c-413b-b1d2-8abbed375c83; EBAY; Upload time is required 
+644384f0-59ba-4d38-8170-edbfac42e54c; AMAZON; Listing status must be between 1 and 3 
+b08ca61b-89c7-4e92-b628-84583936693e; AMAZON; Listing status must be between 1 and 3 
+9fd4521e-b24a-4d12-9130-d41f5738eada; AMAZON; Listing status must be between 1 and 3 
+833ae4fc-4238-4ced-82e1-4f4cb2e85837; AMAZON; Listing status must be between 1 and 3 
+833ae4fc-4238-4ced-82e1-4f4cb2e85837; AMAZON; Upload time is required 
+6e49ac03-a5f8-42a4-8856-4fda59575874; AMAZON; Owner email address must be a valid email address 
+0a6c59c9-0200-470e-b8f5-87300549c80e; AMAZON; Owner email address must be a valid email address 
+809e6a72-a31f-40aa-8c4d-b04755cd51e9; EBAY; Listing status must be between 1 and 3 
+5612680e-44d2-4097-af29-30eab275e7b9; AMAZON; Owner email address must be a valid email address 
+c6866330-99f6-4741-9abf-2c4dd7d7fad1; AMAZON; Owner email address must be a valid email address 
+27a5af2d-467f-4faf-abec-0ae3cda94ccb; EBAY; Listing status must be between 1 and 3 
+27a5af2d-467f-4faf-abec-0ae3cda94ccb; EBAY; Listing price must be positive 
+7ae95f7c-2bd9-42b2-b629-7e7d5740fc17; EBAY; Listing status must be between 1 and 3 
+7ae95f7c-2bd9-42b2-b629-7e7d5740fc17; EBAY; Listing price must be positive 
+7ae95f7c-2bd9-42b2-b629-7e7d5740fc17; EBAY; Upload time is required 
+d6fa94e6-0b78-4bba-bc5a-c71eedd0cb4a; AMAZON; Listing status must be between 1 and 3 
+df117c18-d45d-476a-beed-5e1bdc17598a; EBAY; Listing status must be between 1 and 3 
+1def7b6f-3ea2-4c37-94b7-e389d3710753; EBAY; Listing status must be between 1 and 3 
+fa151133-6910-4a18-ade8-f0d41657464f; EBAY; Owner email address must be a valid email address 
+fa151133-6910-4a18-ade8-f0d41657464f; EBAY; Upload time is required 
+a93dfb05-f102-4aec-b1b4-6cf8112388f7; EBAY; Upload time is required 
+a93dfb05-f102-4aec-b1b4-6cf8112388f7; EBAY; Listing status must be between 1 and 3 
+1843b38c-1498-449b-8ed9-0f997815ac4b; AMAZON; Listing price must be positive 
+a5e856e6-0336-4b3f-86fe-7dd8fb1f0de3; AMAZON; Upload time is required 
+a5e856e6-0336-4b3f-86fe-7dd8fb1f0de3; AMAZON; Owner email address must be a valid email address 
+a5e856e6-0336-4b3f-86fe-7dd8fb1f0de3; AMAZON; Listing status must be between 1 and 3 
+b8504c01-23cd-4262-a2c3-261ec969d483; AMAZON; Listing status must be between 1 and 3 
+172483c9-760f-4fda-b0ac-634cd276cca7; EBAY; Owner email address must be a valid email address 
+9aba0802-1352-4d51-922c-d612e936e608; AMAZON; Listing status must be between 1 and 3 
+9aba0802-1352-4d51-922c-d612e936e608; AMAZON; Owner email address must be a valid email address 
+36770258-51c6-4cc5-b53c-bd20fcbdb1e2; EBAY; Listing status must be between 1 and 3 
+8e64d838-1a4d-47b7-964a-6ceeca0facab; AMAZON; Owner email address must be a valid email address 
+8e64d838-1a4d-47b7-964a-6ceeca0facab; AMAZON; Listing status must be between 1 and 3 
+770fb026-08ce-41c2-a34a-7a82ed437294; AMAZON; Listing status must be between 1 and 3 
+97bde472-ab7f-407d-9bcb-3c0b61edca90; EBAY; Listing status must be between 1 and 3 
+139d32e1-721c-49ea-806d-ff040e26447b; AMAZON; Upload time is required 
+cf74abde-e547-420b-950b-28910a46669c; EBAY; Owner email address must be a valid email address 
+06d58060-c257-4ab7-a87f-ff9ec3734136; EBAY; Owner email address must be a valid email address 
+06d58060-c257-4ab7-a87f-ff9ec3734136; EBAY; Listing status must be between 1 and 3 
+5c649170-b03f-47f0-84a2-c3241fad4a34; EBAY; Owner email address must be a valid email address 
+674e3ef1-1921-4783-9788-c8a86f02ca0b; AMAZON; Listing status must be between 1 and 3 
+746c2bab-2acc-42e1-a256-d901a08f352e; AMAZON; Listing status must be between 1 and 3 
+638f9858-48d7-432a-b9f6-cc383cb85ad9; AMAZON; Listing status must be between 1 and 3 
+638f9858-48d7-432a-b9f6-cc383cb85ad9; AMAZON; Upload time is required 
+4b7f446f-169e-4491-a4db-4109fd17ec19; EBAY; Listing status must be between 1 and 3 
+0e7df0a6-fb09-40bc-bdde-d8ebc6df6e28; AMAZON; Listing price must be positive 
+0e7df0a6-fb09-40bc-bdde-d8ebc6df6e28; AMAZON; Owner email address must be a valid email address 
+3bb54d9b-80a3-400b-b586-a7a171cd5313; AMAZON; Owner email address must be a valid email address 
+2dcf7f6d-10d1-4b5b-8803-9d56388ab40d; EBAY; Upload time is required 
+dcc46f1b-1599-400b-95f6-e75f53eb8544; AMAZON; Owner email address must be a valid email address 
+903982f9-96fa-46e9-88a5-bcfb6ce776e6; AMAZON; Upload time is required 
+903982f9-96fa-46e9-88a5-bcfb6ce776e6; AMAZON; Listing status must be between 1 and 3 
+066f9c19-91b8-4d29-afd2-cdab070100cf; AMAZON; Upload time is required 
+f991ecf8-bef8-47e9-964b-1039e0686160; AMAZON; Owner email address must be a valid email address 
+24e4424a-aaa0-4554-ae6a-a409544287f0; EBAY; Upload time is required 
+c2e5e363-a63b-4bba-8529-6422e4f619c6; EBAY; Listing status must be between 1 and 3 
+95dc54ba-2568-4866-954e-2138f2446beb; AMAZON; Owner email address must be a valid email address 
+07c4b214-6d8f-4a6d-9d6b-05bac3d2215d; AMAZON; Owner email address must be a valid email address 
+63308191-7b0a-4976-a367-4aba517b920f; AMAZON; Listing price must be positive 
+d597cd7d-1110-44ed-bc69-48126a544ac2; AMAZON; Listing price must be positive 
+3c67cc9e-0462-4606-9f6b-af1666e2ed70; EBAY; Listing price must be positive 
+4a5ccc4e-29cd-4c32-a8b1-8812e54a71f9; EBAY; Listing status must be between 1 and 3 
+4a5ccc4e-29cd-4c32-a8b1-8812e54a71f9; EBAY; Owner email address must be a valid email address 
+5fcc16b3-0e46-4b7f-9178-22edd3e4ee69; AMAZON; Owner email address must be a valid email address 
+732e3eb2-5b3a-4794-a047-f246b30f9d78; EBAY; Upload time is required 
+3f9f25d2-d528-4307-86ac-4ccb9031041a; EBAY; Listing status must be between 1 and 3 
+13c60525-2485-4ed5-816f-eda45407b20a; AMAZON; Owner email address must be a valid email address 
+aab76962-e1ec-4f39-a9d8-c856e2423cb7; AMAZON; Owner email address must be a valid email address 
+0e4207eb-5f57-4a35-928a-b36adaa5216d; EBAY; Listing status must be between 1 and 3 
+8f2c42d8-a7f2-4318-9108-1262ab824b6b; AMAZON; Owner email address must be a valid email address 
+8f2c42d8-a7f2-4318-9108-1262ab824b6b; AMAZON; Listing status must be between 1 and 3 
+bca96a93-2d4c-4874-a8fc-35d3a24d72a8; AMAZON; Owner email address must be a valid email address 
+d37c3cc1-c93f-4282-84df-18258223cc74; EBAY; Listing status must be between 1 and 3 
+d37c3cc1-c93f-4282-84df-18258223cc74; EBAY; Listing price must be positive 
+3039ba44-37fc-4bd9-9282-3c402274f258; AMAZON; Listing status must be between 1 and 3 
+3a296fac-b10f-4e2c-86d8-8a71bfb8e79a; EBAY; Listing status must be between 1 and 3 
+d0474d4d-50a9-4736-9106-b8ae8c6a913c; AMAZON; Listing status must be between 1 and 3 
+d0474d4d-50a9-4736-9106-b8ae8c6a913c; AMAZON; Listing price must be positive 
+e6839718-a821-4214-9ddf-1c8a083a0dc5; EBAY; Upload time is required 
+c410f09e-47ca-4524-84e3-d225305b18dc; AMAZON; Upload time is required 
+799a69ea-442c-4fa4-b692-5630f00a3178; EBAY; Upload time is required 
+fe35e1f5-9ac8-4399-ae1d-7782f846ef07; EBAY; Owner email address must be a valid email address 
+edf9177b-656f-4dc7-80f0-c551ca1be2ae; AMAZON; Upload time is required 
+edf9177b-656f-4dc7-80f0-c551ca1be2ae; AMAZON; Owner email address must be a valid email address 
+17016b27-9c73-49c6-9199-eb7e7d223161; EBAY; Owner email address must be a valid email address 
+989d7ef2-9b02-4b08-a239-9722a67cec0e; EBAY; Owner email address must be a valid email address 
+c56bee85-e1a3-49af-bb4a-8b057a5a2cfd; AMAZON; Listing status must be between 1 and 3 
+c56bee85-e1a3-49af-bb4a-8b057a5a2cfd; AMAZON; Owner email address must be a valid email address 
+2289e3c1-b9d0-46da-ab67-a3fee4a0c8ad; EBAY; Listing status must be between 1 and 3 
+8ad4f224-744c-4a18-96f4-370bf2a2159b; EBAY; Listing status must be between 1 and 3 
+575f5f4d-b6fe-41dc-b51b-c2a9066c504e; AMAZON; Upload time is required 
+e1e9c6fa-0506-412d-8d05-8cb50dfe9484; EBAY; Listing status must be between 1 and 3 
+3553f4c0-39f4-4506-bd5e-e1ab0d86e955; AMAZON; Listing status must be between 1 and 3 
+b24bc73a-2a3c-4679-8efd-2061e269b4f7; EBAY; Listing price must be positive 
+b24bc73a-2a3c-4679-8efd-2061e269b4f7; EBAY; Upload time is required 
+b24bc73a-2a3c-4679-8efd-2061e269b4f7; EBAY; Owner email address must be a valid email address 
+b24bc73a-2a3c-4679-8efd-2061e269b4f7; EBAY; Listing status must be between 1 and 3 
+90633eeb-7fd0-433c-b065-e2562f7db1c2; EBAY; Upload time is required 
+8e8c8af6-fee8-4e9f-b719-faecc98f9ee7; AMAZON; Upload time is required 
+cd0f8abf-15d9-4665-b791-62321a2dd85e; EBAY; Owner email address must be a valid email address 
+0bc369d4-fbe1-44a2-8a5c-a3f3562cc966; AMAZON; Listing status must be between 1 and 3 
+5b70433e-b8e9-49a5-89e9-3f5b067628b0; EBAY; Listing price must be positive 
+5b70433e-b8e9-49a5-89e9-3f5b067628b0; EBAY; Upload time is required 
+7b2a51e0-1745-4df6-b3be-4c16784b06ec; AMAZON; Upload time is required 
+c518ccd4-e918-467f-8034-e14121c7d483; AMAZON; Listing status must be between 1 and 3 
+ac634611-2d8e-4204-b954-2b850dde02f7; AMAZON; Listing status must be between 1 and 3 
+8b989c59-a73c-4439-bfd1-1a65c0942f9b; EBAY; Upload time is required 
+4d8e7874-6e8f-4dc4-b93b-37310ca1c33e; AMAZON; Upload time is required 
+6a01e026-03f4-4f53-a48d-6a26c27a43ea; EBAY; Listing status must be between 1 and 3 
+bae67c0a-ecc8-4c9d-9679-f54c19b2c478; AMAZON; Listing status must be between 1 and 3 
+bae67c0a-ecc8-4c9d-9679-f54c19b2c478; AMAZON; Owner email address must be a valid email address 
+fe02cf09-8e4e-4e14-9159-2e12be23d0ab; EBAY; Owner email address must be a valid email address 
+fe02cf09-8e4e-4e14-9159-2e12be23d0ab; EBAY; Listing status must be between 1 and 3 
+14b1a600-d4dc-4648-893d-901f970b1d97; EBAY; Listing status must be between 1 and 3 
+f67b22ef-87af-4b8a-8c83-82d13689d65d; AMAZON; Owner email address must be a valid email address 
+da5daada-8399-4c06-ba4b-1830a237e668; AMAZON; Upload time is required 
+35aae758-01ed-49f9-8efa-4c2cf33f701a; AMAZON; Owner email address must be a valid email address 
+0c0d6c2f-c925-4ffb-8d4c-28d5ae4a4431; EBAY; Upload time is required 
+0634a1be-1730-46dc-89a8-1b8b04816497; AMAZON; Listing status must be between 1 and 3 
+12070730-6ea1-4e5c-b2f4-3ce5ef503fce; EBAY; Listing price must be positive 
+b2db7741-dd06-4508-8ce3-e766cbdbede2; AMAZON; Listing status must be between 1 and 3 
+48e2a066-b852-4490-b8af-5387f67028c5; EBAY; Owner email address must be a valid email address 
+585e6c3c-f58d-40e1-aa43-4fcd3c58295d; AMAZON; Upload time is required 
+065c3808-c38d-4b80-910c-694a85d2fa35; AMAZON; Owner email address must be a valid email address 
+cce25111-3964-422a-b0e7-ba5e76faa317; AMAZON; Listing status must be between 1 and 3 
+f61d4039-55ed-4fda-9067-685ff24d0580; EBAY; Listing status must be between 1 and 3 
+e4637d93-60e9-4c83-bfc8-7a1b149abaeb; EBAY; Listing price must be positive 
+e4637d93-60e9-4c83-bfc8-7a1b149abaeb; EBAY; Upload time is required 
+b3d52b3d-5f57-4413-8d56-832f94404e3c; AMAZON; Owner email address must be a valid email address 
+cf22f5f3-4965-430e-8469-f7e28a114793; AMAZON; Listing status must be between 1 and 3 
+927aa2c6-3a48-4dba-9b1a-b8334d66ca32; EBAY; Owner email address must be a valid email address 
+f4dd1642-405c-4693-92ec-b19865402762; AMAZON; Listing status must be between 1 and 3 
+098b04d9-6090-4fec-8c5f-308c7e977e5e; EBAY; Owner email address must be a valid email address 
+112a9ee7-d526-4c20-b5ad-c39f2324cf4b; EBAY; Owner email address must be a valid email address 
+112a9ee7-d526-4c20-b5ad-c39f2324cf4b; EBAY; Listing status must be between 1 and 3 
+54b67319-44b2-4ebf-a910-7fef41f5a7e4; EBAY; Owner email address must be a valid email address 
+1a6137e5-dd36-4de8-b7de-0c4594b53760; EBAY; Listing status must be between 1 and 3 
+abe5102d-5035-4708-a906-1c9d85265d8f; AMAZON; Owner email address must be a valid email address 
+6476b883-7f49-471b-97a9-566b36b535b5; EBAY; Listing status must be between 1 and 3 
+3d4b5185-0958-45ba-96f2-c3ccba48ea4a; AMAZON; Listing price must be positive 
+23fd5520-ff2b-4657-9b19-41491ad4f84a; AMAZON; Owner email address must be a valid email address 
+31f72495-91ff-4339-95c0-0311a84a792f; EBAY; Upload time is required 
+4ad41221-a476-4294-9b89-09babd6a106a; EBAY; Owner email address must be a valid email address 
+4ad41221-a476-4294-9b89-09babd6a106a; EBAY; Listing status must be between 1 and 3 
+f6da3ba5-4e26-4c67-a6af-c1ad15434017; EBAY; Listing status must be between 1 and 3 
+d3633e67-88a9-4c6c-9ad8-5879df70fc69; EBAY; Listing status must be between 1 and 3 
+b2d854d3-2bce-4f47-9d13-202efb8121f3; EBAY; Listing status must be between 1 and 3 
+6bf9506b-12d2-4bfd-b013-8f82fc801ebc; AMAZON; Owner email address must be a valid email address 
+d4506d59-e5fb-4c96-9ef7-a00acb9b9384; EBAY; Listing price must be positive 
+d4506d59-e5fb-4c96-9ef7-a00acb9b9384; EBAY; Listing status must be between 1 and 3 
+d4506d59-e5fb-4c96-9ef7-a00acb9b9384; EBAY; Owner email address must be a valid email address 
+d4506d59-e5fb-4c96-9ef7-a00acb9b9384; EBAY; Upload time is required 
+5512bea7-1716-4e32-9828-556b65d54b04; EBAY; Upload time is required 
+c82bcc58-a2d7-4c90-85d2-0a9b41f11665; AMAZON; Listing price must be positive 
+68466d9a-f932-4094-ae8d-3e8c23f0a9c4; EBAY; Listing status must be between 1 and 3 
+106ddb9a-0e78-426e-ba9a-c7973202f132; EBAY; Listing status must be between 1 and 3 
+cdf95d34-66c8-48b9-8449-624ce2ff2ac5; AMAZON; Listing price must be positive 
+cdf95d34-66c8-48b9-8449-624ce2ff2ac5; AMAZON; Listing status must be between 1 and 3 
+2fc22791-2416-4c07-afb2-9d4b7bd06c79; AMAZON; Upload time is required 
+fc4942e4-747e-4952-b14a-d362d1bc20dc; EBAY; Listing status must be between 1 and 3 
+f399edb8-716c-4885-bddc-5841061f7624; EBAY; Listing price must be positive 
+f399edb8-716c-4885-bddc-5841061f7624; EBAY; Owner email address must be a valid email address 
+05aa38f3-fc35-4e05-903d-e4ac66e88227; EBAY; Listing status must be between 1 and 3 
+9aae34da-d20e-45b6-8837-82c1a6b7225a; AMAZON; Owner email address must be a valid email address 
+3970e988-aa53-4d30-863f-9c104eaa199b; AMAZON; Owner email address must be a valid email address 
+764a838c-63f5-49ba-9c63-1338e6de92f9; AMAZON; Upload time is required 
+8b173702-e7a4-46f5-a5e9-d026e7e5db1a; AMAZON; Owner email address must be a valid email address 
