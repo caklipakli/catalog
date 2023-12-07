@@ -17,11 +17,9 @@ public class ListingServiceImp implements IListingService {
     @Autowired
     private ListingRepository listingRepository;
 
-    @Autowired
-    private ValidateObjects validateObjects;
-
     @Override
     public void saveListings(List<Listing> listings) {
+        log.info("Saving listings to database");
         listingRepository.saveAll(listings);
     }
 

@@ -1,8 +1,6 @@
 package com.caklipakli.catalog.tasks;
 
-import com.caklipakli.catalog.model.*;
 import com.caklipakli.catalog.report.*;
-import com.caklipakli.catalog.service.*;
 import com.fasterxml.jackson.core.*;
 import com.fasterxml.jackson.databind.*;
 import lombok.extern.log4j.*;
@@ -10,84 +8,32 @@ import org.json.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;
 import picocli.*;
-import picocli.CommandLine.Command;
 
 import javax.sql.*;
 import java.io.*;
 import java.sql.*;
-import java.util.*;
 
-import static com.caklipakli.catalog.tasks.GetData.getListingDataFromAPI;
-import static com.caklipakli.catalog.tasks.ValidateObjects.getValidetedListingsWithErrors;
 import static com.caklipakli.catalog.utils.QueryApp.BEST_LISTER;
 import static com.caklipakli.catalog.utils.QueryApp.MONTHLY_REPORT;
 import static com.caklipakli.catalog.utils.QueryApp.TOTAL_LISTINGS;
 import static com.caklipakli.catalog.utils.QueryApp.TOTAL_MARKETPLACES;
 
-@Command(name= "tasks", description = "process the tasks")
-@Log4j2
 @Component
-public class ProcessTasks implements Runnable {
-
-    @Autowired
-    private LocationServiceImp locationService;
-    @Autowired
-    private ListingServiceImp listingService;
+@Log4j2
+public class GenerateReport {
     @Autowired
     private DataSource dataSource;
 
-    public static final String ERROR_LOG_FILE = "src/main/resources/importLog.csv";
-
-    public static StringBuilder errors = new StringBuilder();
-
-    static int exitCode;
-
-    public static void main(String[] args) {
-        log.info("Simulate a listing reporting system");
-        exitCode = new CommandLine(new ProcessTasks()).execute(args);
-
-        log.info("Closing app as everything finished....");
-
-    }
-
-    @Command(name = "save", description = "save the validated data and write report about errors")
-    void saveData() {
-        try {
-            ValidatedObject validatedObject = getValidetedListingsWithErrors(getListingDataFromAPI());
-            saveListings(validatedObject.getListings());
-            log.info("Write import log file");
-            WriteReport.writeImportLogReport(ERROR_LOG_FILE, validatedObject.getErrors());
-        } catch (JsonProcessingException e) {
-            throw new RuntimeException(e);
-        }
-
-        System.exit(exitCode);
-    }
-
-    @Command(name = "report", description = "generate report")
-    void generateReport() {
+    public void generateReport() {
         log.info("Generate report");
         try {
             queryData();
         } catch (SQLException | JSONException | IOException throwables) {
             throwables.printStackTrace();
         }
-
-        System.exit(exitCode);
-
     }
 
-    private void saveListings(List<Listing> listingList) {
-        log.info("Save listing data to database. ");
-        try {
-            listingService.saveListings(listingList);
-            log.info("Listings saved successfully. ");
-        } catch (Exception e) {
-            log.error("Error saving listings. " + e.getMessage());
-        }
-    }
-
-    public void queryData() throws SQLException, JSONException, IOException {
+    void queryData() throws SQLException, JSONException, IOException {
 
         log.info("Query database");
 
@@ -165,11 +111,5 @@ public class ProcessTasks implements Runnable {
         fileWriter.write(jsonString);
         fileWriter.flush();
         fileWriter.close();
-    }
-
-    @Override
-    public void run() {
-        log.info("Simulate a listing reporting system");
-
     }
 }

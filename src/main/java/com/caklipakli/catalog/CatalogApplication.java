@@ -1,5 +1,6 @@
 package com.caklipakli.catalog;
 
+import com.caklipakli.catalog.exception.*;
 import com.caklipakli.catalog.tasks.*;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,28 +13,11 @@ import picocli.CommandLine;
 
 @SpringBootApplication
 @Log4j2
-public class CatalogApplication implements CommandLineRunner {
-
-	private ProcessTasks tasks;
-
-
-	private ApplicationContext context;
-	@Autowired
-	public CatalogApplication(ProcessTasks process) {
-		this.tasks = process;
-	}
+public class CatalogApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CatalogApplication.class, args);
-	}
-
-	@Override
-	public void run(String... args) {
-		log.info("Starting....");
-
-		new CommandLine(tasks).execute(args);
-
-
+		log.info("Starting app....");
 	}
 
 }
