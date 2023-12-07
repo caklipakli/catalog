@@ -1,12 +1,10 @@
 package com.caklipakli.catalog.report;
 
-import lombok.extern.log4j.Log4j2;
+import lombok.extern.log4j.*;
 
 import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.List;
+import java.nio.file.*;
+import java.util.*;
 
 @Log4j2
 public class WriteReport {

@@ -1,13 +1,10 @@
 package com.caklipakli.catalog.tasks;
 
-import lombok.extern.log4j.Log4j2;
-import org.apache.commons.net.ftp.FTPClient;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.stereotype.Component;
+import lombok.extern.log4j.*;
+import org.apache.commons.net.ftp.*;
+import org.springframework.stereotype.*;
 
-
-import java.io.FileInputStream;
-import java.io.IOException;
+import java.io.*;
 
 @Log4j2
 @Component
@@ -21,10 +18,10 @@ public class UploadFile {
 
     public static void uploadReportJSONFile() {
 
-    log.info("File upload process started ");
+        log.info("File upload process started ");
 
-    FTPClient client = new FTPClient();
-    FileInputStream fis = null;
+        FTPClient client = new FTPClient();
+        FileInputStream fis = null;
 
         try {
             client.connect(FTP_HOST);

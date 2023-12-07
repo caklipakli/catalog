@@ -1,10 +1,8 @@
 package com.caklipakli.catalog;
 
-import com.caklipakli.catalog.model.Listing;
+import com.caklipakli.catalog.model.*;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 public class MockData {
 

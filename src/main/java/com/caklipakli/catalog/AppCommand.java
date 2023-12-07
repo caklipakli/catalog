@@ -4,10 +4,8 @@ import com.caklipakli.catalog.tasks.*;
 import lombok.extern.log4j.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;
-import picocli.CommandLine.Command;
-import picocli.CommandLine.Option;
+import picocli.CommandLine.*;
 
-import javax.sql.*;
 import java.util.concurrent.*;
 
 @Component
@@ -40,7 +38,7 @@ public class AppCommand implements Callable {
         } else if ((option != null) && option.equals("--report")) {
             generateReport.generateReport();
             System.exit(0);
-            }
+        }
         saveProcess.saveData();
         generateReport.generateReport();
 

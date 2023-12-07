@@ -7,16 +7,12 @@ import lombok.extern.log4j.*;
 import org.json.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;
-import picocli.*;
 
 import javax.sql.*;
 import java.io.*;
 import java.sql.*;
 
-import static com.caklipakli.catalog.utils.QueryApp.BEST_LISTER;
-import static com.caklipakli.catalog.utils.QueryApp.MONTHLY_REPORT;
-import static com.caklipakli.catalog.utils.QueryApp.TOTAL_LISTINGS;
-import static com.caklipakli.catalog.utils.QueryApp.TOTAL_MARKETPLACES;
+import static com.caklipakli.catalog.utils.QueryApp.*;
 
 @Component
 @Log4j2
@@ -45,8 +41,6 @@ public class GenerateReport {
         JSONObject email = new JSONObject();
         JSONArray monthly = new JSONArray();
 
-        ResultSetConverter rsc = new ResultSetConverter();
-
         Connection conn = dataSource.getConnection();
 
         Statement stmt = conn.createStatement();
@@ -66,7 +60,7 @@ public class GenerateReport {
         //Marketplace results
         ResultSet marketRs = stmt.executeQuery(TOTAL_MARKETPLACES);
 
-        market = rsc.convert(marketRs);
+        market = ResultSetConverter.convert(marketRs);
         allResults.put(market);
 
         //Best Lister
@@ -86,7 +80,7 @@ public class GenerateReport {
 
         ResultSet monthlyRs = stmt.executeQuery(MONTHLY_REPORT);
 
-        monthly = rsc.convert(monthlyRs);
+        monthly = ResultSetConverter.convert(monthlyRs);
         allResults.put(monthly);
 
 // Write JSON to file
@@ -97,7 +91,7 @@ public class GenerateReport {
 
     }
 
-    private String prettyPrintJson (String uglyJsonString) throws JsonProcessingException {
+    private String prettyPrintJson(String uglyJsonString) throws JsonProcessingException {
         log.info("Pretty print JSON");
         ObjectMapper objectMapper = new ObjectMapper();
         Object jsonObject = objectMapper.readValue(uglyJsonString, Object.class);

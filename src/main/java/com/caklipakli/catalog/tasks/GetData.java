@@ -1,18 +1,15 @@
 package com.caklipakli.catalog.tasks;
 
-import com.caklipakli.catalog.model.Listing;
-import com.caklipakli.catalog.model.Location;
-import com.fasterxml.jackson.core.JsonProcessingException;
+import com.caklipakli.catalog.model.*;
+import com.fasterxml.jackson.core.*;
 import com.fasterxml.jackson.core.type.*;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import lombok.extern.log4j.Log4j2;
+import com.fasterxml.jackson.databind.*;
+import lombok.extern.log4j.*;
 
-import java.io.IOException;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
-import java.util.List;
+import java.io.*;
+import java.net.*;
+import java.net.http.*;
+import java.util.*;
 
 @Log4j2
 public class GetData {
@@ -42,7 +39,8 @@ public class GetData {
         }
 
         ObjectMapper objectMapper = new ObjectMapper();
-        List<Location> locationList= objectMapper.readValue(response.body(), new TypeReference<>(){});
+        List<Location> locationList = objectMapper.readValue(response.body(), new TypeReference<>() {
+        });
         log.info("Location data mapped from API, number of rows received: " + locationList.size());
         return locationList;
     }
@@ -67,7 +65,8 @@ public class GetData {
         }
 
         ObjectMapper objectMapper = new ObjectMapper();
-        List<Listing> listings = objectMapper.readValue(response.body(), new TypeReference<>(){});
+        List<Listing> listings = objectMapper.readValue(response.body(), new TypeReference<>() {
+        });
 
 
         log.info("Listing data mapped from API, number of rows received:: " + listings.size());

@@ -1,18 +1,13 @@
 package com.caklipakli.catalog.tasks;
 
 import com.caklipakli.catalog.model.*;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import jakarta.validation.ConstraintViolation;
-import jakarta.validation.Validation;
-import jakarta.validation.Validator;
-import jakarta.validation.ValidatorFactory;
-import lombok.extern.log4j.Log4j2;
+import com.fasterxml.jackson.core.*;
+import jakarta.validation.*;
+import lombok.extern.log4j.*;
 import org.springframework.stereotype.*;
 
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
-
+import java.util.*;
+import java.util.stream.*;
 
 @Log4j2
 @Component
@@ -31,8 +26,8 @@ public class ValidateObjects {
                     Set<ConstraintViolation<Listing>> violations = validator.validate(listing);
                     violations.forEach(violation -> {
                         errors.append(listing.getId()).append("; ")
-                              .append(listing.getMarketplaceId() == 1 ? "EBAY" : "AMAZON")
-                              .append("; ").append(violation.getMessage()).append(" \n");
+                                .append(listing.getMarketplaceId() == 1 ? "EBAY" : "AMAZON")
+                                .append("; ").append(violation.getMessage()).append(" \n");
 
                     });
                     return violations.isEmpty();

@@ -1,8 +1,8 @@
 package com.caklipakli.catalog.service;
 
-import com.caklipakli.catalog.model.Location;
+import com.caklipakli.catalog.model.*;
 
-import java.util.List;
+import java.util.*;
 
 public interface ILocationService {
 

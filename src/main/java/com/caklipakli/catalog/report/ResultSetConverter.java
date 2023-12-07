@@ -1,13 +1,11 @@
 package com.caklipakli.catalog.report;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
+import lombok.experimental.*;
+import org.json.*;
 
-import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
-import java.sql.SQLException;
+import java.sql.*;
 
+@UtilityClass
 public class ResultSetConverter {
 
     public static JSONArray convert(ResultSet rs) throws SQLException, JSONException {

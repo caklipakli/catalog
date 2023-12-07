@@ -1,11 +1,7 @@
 package com.caklipakli.catalog.exception;
 
-import lombok.Getter;
-import lombok.Setter;
-import picocli.CommandLine;
-import picocli.CommandLine.IExecutionExceptionHandler;
-import picocli.CommandLine.ParseResult;
-
+import picocli.*;
+import picocli.CommandLine.*;
 
 public class GlobalExceptionHandler implements IExecutionExceptionHandler {
 

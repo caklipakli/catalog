@@ -10,9 +10,9 @@ import org.springframework.stereotype.*;
 
 import java.util.*;
 
-import static com.caklipakli.catalog.AppCommand.ERROR_LOG_FILE;
-import static com.caklipakli.catalog.tasks.GetData.getListingDataFromAPI;
-import static com.caklipakli.catalog.tasks.ValidateObjects.getValidetedListingsWithErrors;
+import static com.caklipakli.catalog.AppCommand.*;
+import static com.caklipakli.catalog.tasks.GetData.*;
+import static com.caklipakli.catalog.tasks.ValidateObjects.*;
 
 @Log4j2
 @Component
