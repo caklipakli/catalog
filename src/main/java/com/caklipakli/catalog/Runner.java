@@ -5,7 +5,6 @@ import org.springframework.beans.factory.annotation.*;
 import org.springframework.boot.*;
 import org.springframework.stereotype.*;
 import picocli.CommandLine.IFactory;
-import picocli.CommandLine.Command;
 import picocli.CommandLine;
 
 @Component

@@ -29,11 +29,10 @@ The app performs the following tasks:
 ## How to run
 The app can be run from the command line using the following commands:
 
-1. mvn clean install 
-
-2. - java -jar .\target\catalog-0.0.1-SNAPSHOT.jar save --> performs tasks 1-4
-
-2. - java -jar .\target\catalog-0.0.1-SNAPSHOT.jar report --> performs tasks 5-7
+0. mvn clean install 
+1. java -jar .\target\catalog-0.0.1-SNAPSHOT.jar --> performs tasks 1-7
+2. java -jar .\target\catalog-0.0.1-SNAPSHOT.jar -t --save --> performs tasks 1-4
+3. java -jar .\target\catalog-0.0.1-SNAPSHOT.jar -t --report --> performs tasks 5-7
 
 {Disclaimer: 
 The app is not fully functional yet. It is still a work in progress.

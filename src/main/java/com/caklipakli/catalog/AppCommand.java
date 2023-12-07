@@ -1,6 +1,5 @@
 package com.caklipakli.catalog;
 
-import com.caklipakli.catalog.service.*;
 import com.caklipakli.catalog.tasks.*;
 import lombok.extern.log4j.*;
 import org.springframework.beans.factory.annotation.*;
